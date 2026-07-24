@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "name": "intuitive-deep-learning",
+  "version": "1.0.0",
+  "repository": "https://github.com/reduct-shuku/intuitive-deep-learning",
+  "ref": "main",
+  "path": ".",
+  "contributing": "CONTRIBUTING.md",
+  "changes": [
+    "新增每次触发 Skill 时执行的 Shuku 语义化版本检查。",
+    "新增随 Skill 安装的 Agent 贡献与 Pull Request 协议。"
+  ]
+}
