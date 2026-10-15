@@ -1,13 +1,17 @@
 {
   "schema_version": 1,
   "name": "intuitive-deep-learning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": "https://github.com/reduct-shuku/intuitive-deep-learning",
   "ref": "main",
   "path": ".",
   "contributing": "CONTRIBUTING.md",
   "changes": [
-    "新增每次触发 Skill 时执行的 Shuku 语义化版本检查。",
-    "新增随 Skill 安装的 Agent 贡献与 Pull Request 协议。"
-  ]
+    "补齐 Shuku 标准课程信息、内容入口及校验工具，保留原有本地运行方式"
+  ],
+  "title": "深度学习互动实验室",
+  "description": "通过神经元、损失函数、梯度下降、MLP、卷积网络与人脸识别互动实验建立深度学习直觉。",
+  "entry": "intro.html",
+  "type": "official",
+  "build_profile": "skill"
 }

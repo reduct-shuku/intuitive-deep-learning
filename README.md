@@ -124,3 +124,9 @@ git diff --check
 ```
 
 页面与交互改动应优先复用 `modules/shared/` 中的公共组件，避免每个模块重复实现基础按钮、布局、绘图和遥测逻辑。
+
+## Shuku 仓库信息
+
+课程名称：深度学习互动实验室。课程版本与来源以 shuku.json 为准；内容入口为 [intro.html](intro.html)，运行方式沿用本文与 SKILL.md 的统一启动说明。
+
+格式校验：python3 scripts/validate_skill.py。规范测试：python3 -m unittest discover -s tests -p test_shuku_standard.py。
