@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "name": "intuitive-deep-learning",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/reduct-shuku/intuitive-deep-learning",
   "ref": "main",
   "path": ".",
   "contributing": "CONTRIBUTING.md",
   "changes": [
-    "补齐 Shuku 标准课程信息、内容入口及校验工具，保留原有本地运行方式"
+    "矫正了部分错别字"
   ],
   "title": "深度学习互动实验室",
   "description": "通过神经元、损失函数、梯度下降、MLP、卷积网络与人脸识别互动实验建立深度学习直觉。",
