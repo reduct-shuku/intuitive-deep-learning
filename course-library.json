@@ -1,0 +1,195 @@
+{
+  "modules": [
+    {
+      "directory": "Basic-Example",
+      "entry": "BasicExampleGuide.tsx",
+      "id": "basic-example",
+      "ppt": {
+        "entry": "BasicExamplePpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "基础示例：Creator Skill 是什么",
+      "uuid": "1a8e20a6-6e70-4d1d-8830-3b6b9a34ffed"
+    },
+    {
+      "directory": "Convolution-Kernel-Intro",
+      "entry": "GuidePage.tsx",
+      "id": "convolution-kernel-intro",
+      "ppt": {
+        "entry": "convolutionKernelPpt.tsx",
+        "path": "/scenedeck/",
+        "player": true
+      },
+      "title": "卷积基础：从五子棋棋形到图像卷积",
+      "uuid": "38cd1c79-d8b7-462a-b208-a567c5cd89c4"
+    },
+    {
+      "directory": "Creator-Guide",
+      "entry": "CreatorGuide.tsx",
+      "id": "creator-guide",
+      "ppt": {
+        "entry": "CreatorPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "直觉式学习课件：理念、工具与创作方法",
+      "uuid": "444f8951-dd2e-42dc-94e5-c5a878618631"
+    },
+    {
+      "directory": "Digital-Image-Intro",
+      "entry": "GuidePage.tsx",
+      "id": "digital-image-intro",
+      "ppt": {
+        "entry": "digitalImagePpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "数字图像入门",
+      "uuid": "10da7e16-ff24-449a-9978-b74b99524e47"
+    },
+    {
+      "directory": "Gradient-Descent",
+      "entry": "GuidePage.tsx",
+      "id": "gradient-descent",
+      "ppt": {
+        "entry": "GradientDescentPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "梯度下降、优化器与反向传播",
+      "uuid": "56a1d5b2-a439-4ee3-8f63-fd63ac09c741"
+    },
+    {
+      "directory": "Linear-Regression-Loss",
+      "entry": "GuidePage.tsx",
+      "id": null,
+      "ppt": {
+        "entry": "linearRegressionPpt.tsx",
+        "path": "/scenedeck/",
+        "player": true
+      },
+      "title": "从身高遗传到线性回归：模型怎样学会变准",
+      "uuid": "a805d0a5-9d46-42ef-9989-e11aeb79e49e"
+    },
+    {
+      "directory": "Memory-Test",
+      "entry": "GuidePage.tsx",
+      "id": "memory-test",
+      "ppt": null,
+      "title": "Memory Test · 埋点联调模块",
+      "uuid": "f1751a2d-ea22-4f92-9fa4-32b506c011de"
+    },
+    {
+      "directory": "Multilayer-Perceptron",
+      "entry": "GuidePage.tsx",
+      "id": "multilayer-perceptron",
+      "ppt": {
+        "entry": "MultilayerPerceptronPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "多层感知机",
+      "uuid": "95728790-5709-43e1-ada6-99687813ab3b"
+    },
+    {
+      "directory": "Neuron-Guide",
+      "entry": "GuidePage.tsx",
+      "id": "neuron-guide",
+      "ppt": {
+        "entry": "neuronPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "认识人工神经元",
+      "uuid": "9acfbca1-b881-457e-add6-21e0b6b855a0"
+    },
+    {
+      "directory": "Newborn-Article-Impact",
+      "entry": "GuidePage.tsx",
+      "id": "newborn-article-impact",
+      "ppt": {
+        "entry": "NaipPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "从文字到价值：新生文章影响力预测",
+      "uuid": "3500e36d-8f2e-43f6-ba93-e830091cd541"
+    },
+    {
+      "directory": "Policy-Gradient",
+      "entry": "GuidePage.tsx",
+      "id": "policy-gradient",
+      "ppt": {
+        "entry": "PolicyGradientPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "策略梯度入门",
+      "uuid": "9831b46b-af10-4cb3-b9dc-94e0cee25143"
+    },
+    {
+      "directory": "Regression-Loss",
+      "entry": "GuidePage.tsx",
+      "id": "regression-loss",
+      "ppt": {
+        "entry": "RegressionLossPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "回归与损失：模型怎样变准",
+      "uuid": "adde4a27-235d-4c03-a3cf-734ccf08b38d"
+    },
+    {
+      "directory": "Tldraw-Demo",
+      "entry": "TldrawDemoPage.tsx",
+      "id": "tldraw-demo",
+      "ppt": null,
+      "title": "tldraw 可编辑画布 · 接入演示",
+      "uuid": "923756e0-ce6c-412a-b5f1-b7d9fb38ef73"
+    },
+    {
+      "directory": "Value-Based-RL",
+      "entry": "GuidePage.tsx",
+      "id": "value-based-rl",
+      "ppt": {
+        "entry": "valueBasedRlppt.tsx",
+        "path": "/scenedeck/",
+        "player": true
+      },
+      "title": "Value-based 强化学习：机器人送货",
+      "uuid": "aa380af5-efee-42a1-8896-16032f9331ea"
+    },
+    {
+      "directory": "Visual-Feature-Learning",
+      "entry": "GuidePage.tsx",
+      "id": "visual-feature-learning",
+      "ppt": {
+        "entry": "visualFeatureLearningPpt.tsx",
+        "player": false
+      },
+      "title": "视觉特征学习",
+      "uuid": "80396753-7fc8-4f55-9188-bddbdb828169"
+    },
+    {
+      "directory": "Visual-Generation-Guide",
+      "entry": "GuidePage.tsx",
+      "id": "visual-generation-guide",
+      "ppt": {
+        "entry": "visualGenerationPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "视觉生成：从噪声到图像",
+      "uuid": "ce19337d-405b-47ff-92a9-9890127b5365"
+    }
+  ],
+  "repository": "reduct-shuku/intuitive-deep-learning",
+  "runtime": {
+    "assets": "assets",
+    "creatorSkill": "creator-skill",
+    "platformApiRequired": true,
+    "shared": "modules/shared"
+  },
+  "schema": 1
+}
