@@ -8185,7 +8185,7 @@
       "mode": "100644"
     },
     "modules/shared/README.md": {
-      "blob": "d4af54bb5b712bc191c23c747a1c169921d56e0b",
+      "blob": "1f575449138f15638d0570452f866ab2a60d65e4",
       "mode": "100644"
     },
     "modules/shared/mathlive-loader.js": {
@@ -8549,7 +8549,7 @@
       "mode": "100644"
     },
     "source-lock.json": {
-      "blob": "08f6ab9c0927f47a7286f0ac12f321b3ac2b55d9",
+      "blob": "22d53f02233e7c9d001cd18b497594785600aba2",
       "mode": "100644"
     }
   },
