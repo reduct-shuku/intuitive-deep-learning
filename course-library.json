@@ -1,6 +1,18 @@
 {
   "modules": [
     {
+      "directory": "AI-Learning-Exploration",
+      "entry": "LearningExplorationPpt.tsx",
+      "id": "ai-learning-exploration",
+      "ppt": {
+        "entry": "LearningExplorationPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "人工智能时代的求学与探索",
+      "uuid": "ca34afdd-802f-412f-b1bf-7a2aee2ab3c6"
+    },
+    {
       "directory": "Basic-Example",
       "entry": "BasicExampleGuide.tsx",
       "id": "basic-example",
@@ -59,6 +71,14 @@
       },
       "title": "梯度下降、优化器与反向传播",
       "uuid": "56a1d5b2-a439-4ee3-8f63-fd63ac09c741"
+    },
+    {
+      "directory": "LLM-Practice-Education",
+      "entry": null,
+      "id": "llm-practice-education",
+      "ppt": null,
+      "title": "大模型驱动的实践能力培养体系与工具",
+      "uuid": "70b484d3-c7ca-4db7-a4dd-3dee793ca316"
     },
     {
       "directory": "Linear-Regression-Loss",

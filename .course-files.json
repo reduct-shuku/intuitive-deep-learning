@@ -4293,11 +4293,11 @@
       "mode": "100644"
     },
     "course-library.json": {
-      "blob": "6b7c24948b9d06b644cd8a339f45bb5e640a6303",
+      "blob": "5225448b3df42d219cf97480978b83e85d26f517",
       "mode": "100644"
     },
     "creator-skill/SKILL.md": {
-      "blob": "21d66ce2ce077e650dd76664b08f86a1680ccf9c",
+      "blob": "e82a3b2444fa9bb0b95fe2f8505807491e439219",
       "mode": "100644"
     },
     "creator-skill/assets/idl_basic_template.png": {
@@ -4353,11 +4353,11 @@
       "mode": "100644"
     },
     "creator-skill/references/design/course-outline.md": {
-      "blob": "8a9e9404c2e84c3b132e249566da66a84a941a04",
+      "blob": "6049f0b42e0335089261d38f52a0c5a42bf93fcd",
       "mode": "100644"
     },
     "creator-skill/references/design/design.md": {
-      "blob": "f2cc37f2a312d5e1b4e709e04faccaa047ee60e4",
+      "blob": "0a4549b60a8475491ad348fa0c4af0d2808c978e",
       "mode": "100644"
     },
     "creator-skill/references/design/quiz.md": {
@@ -4365,19 +4365,19 @@
       "mode": "100644"
     },
     "creator-skill/references/engineering/implementation.md": {
-      "blob": "8bf29e9bbbdb2c77ff89bcec9f5e9c8d956938ad",
+      "blob": "071bd0a156a8945306291f44edf6620da6f9dd1d",
       "mode": "100644"
     },
     "creator-skill/references/engineering/module-assets.md": {
-      "blob": "86675961ba68389897d8fde59c3bd7c2b6519fb4",
+      "blob": "028c17a4d38a60abe569b0a240d3edc7b867d325",
       "mode": "100644"
     },
     "creator-skill/references/engineering/scripts.md": {
-      "blob": "eb6f4042fbb273193da628bfdac4eae8b9a1892f",
+      "blob": "e5eec94bbd72e9f119e1e49284424d07bc44ba3c",
       "mode": "100644"
     },
     "creator-skill/references/eval/checks.md": {
-      "blob": "7575c95f664b3d527ead439b7b551799d442e376",
+      "blob": "72cc900d7c86973a1c4dda8e47cba130621d8c1a",
       "mode": "100644"
     },
     "creator-skill/references/eval/rubric-evaluation.md": {
@@ -4389,19 +4389,19 @@
       "mode": "100644"
     },
     "creator-skill/references/tools.md": {
-      "blob": "3a25d427a745fe3ecd307ac64e1f6f6ed9ab9525",
+      "blob": "c21901dc5f119f16acc9063daf445367d9c1ba88",
       "mode": "100644"
     },
     "creator-skill/references/workflow/common.md": {
-      "blob": "02554bc61210a608354454bc0ac4454a26623023",
+      "blob": "8ffd7f3aeb71793e2c36eb50bf379260644aa04e",
       "mode": "100644"
     },
     "creator-skill/references/workflow/from-scratch.md": {
-      "blob": "8cb1416be422d8caebb6de0b81ebbe17dd7cb687",
+      "blob": "149b893325cac2843b3fd0fa83158dee3e76af2e",
       "mode": "100644"
     },
     "creator-skill/references/workflow/reference-adaptation.md": {
-      "blob": "5e516ade59ed831ba1ee95c5fa7b9db427279052",
+      "blob": "b6fa81747c9cf461793b3cef5eb9b3e001aa3646",
       "mode": "100644"
     },
     "creator-skill/scripts/analysis/collect_page_metrics.cjs": {
@@ -4433,7 +4433,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/checks/validate_module.py": {
-      "blob": "1b9e726a3577b45cbeafec1602e616e39d42c7d6",
+      "blob": "290a35729344c3acb86a32c6982e2c52a530e23d",
       "mode": "100644"
     },
     "creator-skill/scripts/checks/validate_ppt_bounds.mjs": {
@@ -4449,7 +4449,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/common/_common.py": {
-      "blob": "ef181cbe75a9c42739eed882e4d9e86b16be10a8",
+      "blob": "00e1e68d119d6dd48d8489c3c2d9d84534c8eb14",
       "mode": "100644"
     },
     "creator-skill/scripts/common/_page_checks.js": {
@@ -4457,7 +4457,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/media/capture_slides.py": {
-      "blob": "d880617de5c30db196d8d94876c1a0a834fef096",
+      "blob": "5429320421d15916692799ddc80138e374ee81ef",
       "mode": "100644"
     },
     "creator-skill/scripts/media/extract_pptx.py": {
@@ -4509,7 +4509,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/tests/test_authoring_tools.py": {
-      "blob": "9087e673c0de40d2412d99f336f16e4a39936640",
+      "blob": "52babd9d02274a601a1053dc1fde912365995aaa",
       "mode": "100644"
     },
     "creator-skill/scripts/tests/test_cli_contracts.py": {
@@ -4533,7 +4533,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/tests/test_scratchpad.py": {
-      "blob": "2fad6a106049dd4524aa86780ce353b6cabba224",
+      "blob": "2ae976d95c0ba41d7b6cac96a58b6f373ad7ffab",
       "mode": "100644"
     },
     "creator-skill/scripts/tests/test_templates.py": {
@@ -4552,16 +4552,32 @@
       "blob": "8a674edb23fd0a8c331cba035403920b2d427f0b",
       "mode": "100644"
     },
+    "modules/AI-Learning-Exploration/LearningExplorationPpt.tsx": {
+      "blob": "0ff011f72d0072be6f61a5b441be666e46192e57",
+      "mode": "100644"
+    },
+    "modules/AI-Learning-Exploration/outlines.json": {
+      "blob": "ab7c986d9272f50bda2ae8a41badfd1e9c3b49d7",
+      "mode": "100644"
+    },
+    "modules/AI-Learning-Exploration/pages/OpeningPage/OpeningPage.css": {
+      "blob": "d9d824d293b5f5bc4221a0b88a211e02453aed62",
+      "mode": "100644"
+    },
+    "modules/AI-Learning-Exploration/pages/OpeningPage/OpeningPage.tsx": {
+      "blob": "b2c5f168df370b15de97fb735d56b985be4c1783",
+      "mode": "100644"
+    },
     "modules/Basic-Example/BasicExampleGuide.tsx": {
-      "blob": "8944d836d0c64725e10a25e3516a041ab54c1a54",
+      "blob": "f660f22df2bf5e0cb834104337d2218ec5583df0",
       "mode": "100644"
     },
     "modules/Basic-Example/BasicExamplePpt.tsx": {
-      "blob": "4d599eccc60d3e0d9e483544b6029e4435b71a8d",
+      "blob": "2eacd19d893c6536cdac6a2899de0c0bca5ed6b4",
       "mode": "100644"
     },
     "modules/Basic-Example/outlines.json": {
-      "blob": "6187409f7e3dcb72583236ac24cf2b11ecbedca9",
+      "blob": "3d7186a9d6eb6e5c2d8c7b4b0ed62a4512ecc364",
       "mode": "100644"
     },
     "modules/Basic-Example/pages/CreatorSkillIntro.css": {
@@ -4570,6 +4586,14 @@
     },
     "modules/Basic-Example/pages/CreatorSkillIntro.tsx": {
       "blob": "dcec809c08a8aad9d7d5282ce1d182d6dffd2f5c",
+      "mode": "100644"
+    },
+    "modules/Basic-Example/pages/CreatorSkillIntro/CreatorSkillIntro.css": {
+      "blob": "5b341880fc71f19e27395d7944938f1d7c1d5f18",
+      "mode": "100644"
+    },
+    "modules/Basic-Example/pages/CreatorSkillIntro/CreatorSkillIntro.tsx": {
+      "blob": "46abe8225f6747a758daf5fd1c01faea260e9c3b",
       "mode": "100644"
     },
     "modules/Convolution-Kernel-Intro/GuidePage.tsx": {
@@ -4593,7 +4617,7 @@
       "mode": "100644"
     },
     "modules/Convolution-Kernel-Intro/outlines.json": {
-      "blob": "b250e26d3356317d04a45b0fb99436b37bbb2990",
+      "blob": "4d0f6a13bcc6e677c7d883b64d05e9a294e1f01f",
       "mode": "100644"
     },
     "modules/Convolution-Kernel-Intro/pages/BoardAsNumbersPage/BoardAsNumbersPage.css": {
@@ -5269,7 +5293,7 @@
       "mode": "100644"
     },
     "modules/Creator-Guide/outlines.json": {
-      "blob": "791c8e1380c217f98af188ff9011898f39807de4",
+      "blob": "3972ba2725fa917e52db1fd43e01be3f478e414d",
       "mode": "100644"
     },
     "modules/Creator-Guide/pages/CreationWorkflowPage.css": {
@@ -5457,7 +5481,7 @@
       "mode": "100644"
     },
     "modules/Digital-Image-Intro/outlines.json": {
-      "blob": "7306e9fa6dc9a2a69be2093d3ab826558a5c6664",
+      "blob": "94e27af0820fcc2dba0f010af31d8e3ab86fcaef",
       "mode": "100644"
     },
     "modules/Digital-Image-Intro/pages/BeadOpeningPage/BeadOpeningPage.css": {
@@ -5737,7 +5761,7 @@
       "mode": "100644"
     },
     "modules/Gradient-Descent/outlines.json": {
-      "blob": "3a21960b2f04efb7baac212b0630420302a96c14",
+      "blob": "56bb137eea631c5b1c327bb19eec3ef7dd81a470",
       "mode": "100644"
     },
     "modules/Gradient-Descent/pages/EvacuationPage/EvacuationPage.css": {
@@ -5772,6 +5796,10 @@
       "blob": "c491b43241b50dd72b6e524fb4c573e506069ab0",
       "mode": "100644"
     },
+    "modules/LLM-Practice-Education/outlines.json": {
+      "blob": "c76960a6f1f0c0af95a42ab210f6445d17efe55a",
+      "mode": "100644"
+    },
     "modules/Linear-Regression-Loss/GuidePage.tsx": {
       "blob": "5f53346409652226c1f86328da1804d8b437fd6c",
       "mode": "100644"
@@ -5781,7 +5809,7 @@
       "mode": "100644"
     },
     "modules/Linear-Regression-Loss/outlines.json": {
-      "blob": "20bdcc40e05071ed401805c5feaa7d2151d43c7f",
+      "blob": "9517811acd347b36f6173f7b777ed32545aec669",
       "mode": "100644"
     },
     "modules/Linear-Regression-Loss/pages/UncertaintyOpeningPage/UncertaintyOpeningPage.css": {
@@ -5809,7 +5837,7 @@
       "mode": "100644"
     },
     "modules/Memory-Test/outlines.json": {
-      "blob": "cf5491ebf2662835f93e5a41e4e25efb55ed43e4",
+      "blob": "6d6e44f2d0a3daefdc62002872eb7bd44d2b1305",
       "mode": "100644"
     },
     "modules/Multilayer-Perceptron/GuidePage.tsx": {
@@ -5829,7 +5857,7 @@
       "mode": "100644"
     },
     "modules/Multilayer-Perceptron/outlines.json": {
-      "blob": "cd8b1ec0c74e241ac5e509e9a260d487c2933768",
+      "blob": "5457758034179defdcfa83591c87557bceae786f",
       "mode": "100644"
     },
     "modules/Multilayer-Perceptron/pages/LogOddsPage/LogOddsPage.css": {
@@ -5929,7 +5957,7 @@
       "mode": "100644"
     },
     "modules/Neuron-Guide/outlines.json": {
-      "blob": "e8561d31c4e1f9039703ff2290d79fe0751b4228",
+      "blob": "bc4b3e1255ab73e4c4c1b8864643b7aa60f79851",
       "mode": "100644"
     },
     "modules/Neuron-Guide/pages/ActivationCatalogPage/ActivationCatalogPage.css": {
@@ -6145,7 +6173,7 @@
       "mode": "100644"
     },
     "modules/Newborn-Article-Impact/outlines.json": {
-      "blob": "04aadc5d8363b0d546539d28520c411bcf6189bc",
+      "blob": "2489503f37060c28034ac82939793c2a43a6a877",
       "mode": "100644"
     },
     "modules/Newborn-Article-Impact/pages/01-Cover.tsx": {
@@ -6573,7 +6601,7 @@
       "mode": "100644"
     },
     "modules/Policy-Gradient/outlines.json": {
-      "blob": "ed50d897404468b9776ef8eb42395b3c94d89a37",
+      "blob": "1fc7ff9d0da9f4269be5bb162b21663317260298",
       "mode": "100644"
     },
     "modules/Policy-Gradient/pages/ACUpdateLessons.tsx": {
@@ -6801,7 +6829,7 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/outlines.json": {
-      "blob": "cf03571b782418b03075b4caa9fa3ac7c068d375",
+      "blob": "84a794d419a7b84a94db008090e6bfb3cb45dd81",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/AutomaticSearchPage/AutomaticSearchPage.css": {
@@ -7013,7 +7041,7 @@
       "mode": "100644"
     },
     "modules/Tldraw-Demo/outlines.json": {
-      "blob": "aa6678d4232d1d3ac6f826aa1a931b7669ffc696",
+      "blob": "86b72f4a48eb5b64a2b4eaffca0e1f3a3e81a857",
       "mode": "100644"
     },
     "modules/Tldraw-Demo/tldraw-demo.css": {
@@ -7105,7 +7133,7 @@
       "mode": "100644"
     },
     "modules/Value-Based-RL/outlines.json": {
-      "blob": "d746ebe20f273e8648d49fd50ca2fae83deb3c08",
+      "blob": "3414507f378f598e96bdb96e7230d605f4680af7",
       "mode": "100644"
     },
     "modules/Value-Based-RL/pages/ActionSpacePage/ActionSpacePage.css": {
@@ -7557,7 +7585,7 @@
       "mode": "100644"
     },
     "modules/Visual-Feature-Learning/outlines.json": {
-      "blob": "abd283ffaf86ded61eb6354a5d668a4fd011b4da",
+      "blob": "67d4b7cb1126ef484f114c00400f6d377e21e0ed",
       "mode": "100644"
     },
     "modules/Visual-Feature-Learning/pages/ConvolutionBackpropPage/ConvolutionBackpropPage.css": {
@@ -8009,7 +8037,7 @@
       "mode": "100644"
     },
     "modules/Visual-Generation-Guide/outlines.json": {
-      "blob": "d66f986741556c31a4fcb71661f78497537fc4c3",
+      "blob": "db1d10bbc38aefd7a8e51ef0fc2ccc008ecc38c3",
       "mode": "100644"
     },
     "modules/Visual-Generation-Guide/pages/ConditionalSamplingPage/ConditionalSamplingPage.css": {
@@ -8549,7 +8577,7 @@
       "mode": "100644"
     },
     "source-lock.json": {
-      "blob": "f2a148d8dbb9a1cc2e3e60d9d9ed215cf41baab5",
+      "blob": "531888b6fd8031ca6a8b72a2337eb43e3061c0f9",
       "mode": "100644"
     }
   },
