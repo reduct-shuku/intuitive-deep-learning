@@ -1,13 +1,13 @@
 {
   "branch": "develop",
-  "commit": "97be94e17f1ece8d5474f0ac3515e5554a123491",
+  "commit": "ee22864aa857f146be92e6155f8a00457c78667f",
   "inputs": {
     ".github": "cca97349a7a1348c7842d0b7a6b79e851889d6ac",
     "assets": "dbc195bbf50b5039af276429f5aa399befdc708d",
     "creator-skill": "559f8ae4daecbc5394479a6dddb93ec055a23813",
     "modules": "12ba5df4e7ed13fa74143c4e763d5bb14c4d0ddc",
     "package.json": "4cc7c255b79826138ca44303543dda62a95c8971",
-    "scripts": "1c5dd87d41d40604421017c4e8fc3db0a7663993"
+    "scripts": "bf552597d58a50f15192291aeb6000cde78ebc3a"
   },
   "policy": "add-update-only",
   "repository": "ReductTech/intuitive-deep-learning",
