@@ -1916,6 +1916,74 @@
       "blob": "86efa39aacde6917d96b60bd2ff6a02a25a44122",
       "mode": "100644"
     },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/edge-examples/bridge.jpg": {
+      "blob": "4204c65f4c0a38c458ff451e3372302f720b98e4",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/edge-examples/building.jpg": {
+      "blob": "cf90a88858236aaed0bc6e894c4db4d88423e934",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/edge-examples/chalet.jpg": {
+      "blob": "548777addfd1b7a6a9866272b68e0b606f2b23e8",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/edge-examples/pineapple.jpg": {
+      "blob": "c09bd9c27c516f4b5f397602bc1da139eb546223",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/edge-examples/zebra.jpg": {
+      "blob": "fd68d49497c7e90cb18271583cf690222887b679",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/foundation-frontier-materials-v1.png": {
+      "blob": "438b31c0ac3366c99c5fc293986620cb1e419933",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/knowledge-era-portraits.png": {
+      "blob": "36aefae25a5379a805fcf1fd391f568a775d9ca6",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/knowledge-mountain-stages.png": {
+      "blob": "efb83742be8dc0da889239b5d1d636ea0598fad7",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/images/opening-illustration-v1.png": {
+      "blob": "e6ce897fe77c33ff492760289c9f5ad3e833b1d2",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/education-paths.png": {
+      "blob": "2a3fd5c2d3c42cb92a6c10417e94b551f6017b83",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/foundation-frontier.png": {
+      "blob": "7a93a662d7a12cbf047e1595963eadf3cffdf939",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/intuitive-learning.png": {
+      "blob": "0a187f19c17553be112afd268520de99737477ae",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/knowledge-growth.png": {
+      "blob": "76f028974a4d32b1d9611e77eb2d6732f981f70a",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/learning-goals.png": {
+      "blob": "c6448cb5d046a00c0b0a74dda1b94d9796d9020e",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/opening.png": {
+      "blob": "e49058ca1ed3e40373621779aa01ea4205e428c7",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/popular-science.png": {
+      "blob": "e15f6579c49af074f13026ee15786fa7238ec810",
+      "mode": "100644"
+    },
+    "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/professional-education.png": {
+      "blob": "ff4516c34316b4172d7728c906df44fe641df911",
+      "mode": "100644"
+    },
     "assets/80396753-7fc8-4f55-9188-bddbdb828169/1980_usa.mp4": {
       "blob": "dbbc60f748eb22d259d538446ac69ddc845866f3",
       "mode": "100644"
@@ -4288,16 +4356,168 @@
       "blob": "da6a0f763961f34638830634772bedda45bd392a",
       "mode": "100644"
     },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/background-1.png": {
+      "blob": "31583b25fd991e7377c5cbdc53c8906417ce968e",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/background-23.png": {
+      "blob": "71a77084b6d2a168d5d70e0a214cec848742fcb7",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/images/conventional-research-art-v1.png": {
+      "blob": "ddbeb216399523cf7e3e75e4a6c5da9185e8fdb6",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/images/idea-bridge-islands-v1.png": {
+      "blob": "6c1e1701ef2ef0b6c61a8ac7cdd814512a3443f1",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/images/research-cover-art-v1.png": {
+      "blob": "7c7aca3303b84f3d18e250dadc37523ca5d1a19d",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/images/wishful-research-art-v1.png": {
+      "blob": "edc8b73168ad44e5087ebb0455d6318cf753f131",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/pilot/13-1.png": {
+      "blob": "db6256e758be2e4108428985455eb0e27221b989",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/pilot/4-1.png": {
+      "blob": "b5d125763e8231890064b802e50490de6a692696",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/pilot/4-2.png": {
+      "blob": "1eeef585f3ee35c9b826e6b9d847142772fbe97b",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/pilot/5-1.svg": {
+      "blob": "0529e5467a5934a695d76b52b60d0cd6d3c65ba4",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/pilot/7-1.svg": {
+      "blob": "7627c07a982f8dbcdbb5a32c28af6875819b583d",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s1-shape10.png": {
+      "blob": "db7bfdabc3614995ae7683bea48a3238a993b1c8",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s1-shape11.png": {
+      "blob": "a55840ea2ce15a748c3b6bd7c15790c5c2cfbad5",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s1-shape12.png": {
+      "blob": "415d80bf2ade2692e9e10adba4f661ffb763e880",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s20-1.png": {
+      "blob": "71e7674bd4acf0589061c67cf35b85ba5dc9e9dc",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s20-2.png": {
+      "blob": "8cfdf2377dd9df96a79cf1e07f9d1ca78e7e93a4",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s20-3.png": {
+      "blob": "9db225b71cae6e165c9e12ec655998ce25ee7c17",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s21-1.png": {
+      "blob": "baec41708edf0cfe1058dc18683abfe26eda3e21",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s21-3.jpeg": {
+      "blob": "1453fe298126099ff6ce04e36624cab62abdfc51",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s22-2.jpeg": {
+      "blob": "86dc16fd5b0473ae33a06f1d7d9e28d7932e50b9",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s22-6.jpeg": {
+      "blob": "f79ac21acf931181aa3f866b5afa9d701ee415e4",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s23-1.png": {
+      "blob": "31cc18de319d1e2e481d405003b68565a21cf0ca",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s23-2.png": {
+      "blob": "ed57188652f2430246f48f30711a9306ec09b641",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s23-3.png": {
+      "blob": "e70b69425156e8092866958f58f9043a209fe50b",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s23-4.png": {
+      "blob": "137e409266fe4b6757076ff356ca37819d8048ae",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s23-5.png": {
+      "blob": "c2b8213d08056895ca769bb589a46847a4c818a9",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s4-shape10.png": {
+      "blob": "2f4863a3d4f8b572a884aeaec768d84fdb9f138e",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s4-shape20.png": {
+      "blob": "e8c3505572d5f65803177b28276873f07c1656c2",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s4-shape3.png": {
+      "blob": "ee47e83471842f29d2b88c7c6292663e5cb24cd8",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s7-shape1026.png": {
+      "blob": "6e7310cc026e60fc8f6612b94eedfc02cc93ae86",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s7-shape6.png": {
+      "blob": "d65e22f69b2872fd20e2244b74343c59ebf4a316",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s9-shape1028.png": {
+      "blob": "a301760fe108eae994633d4e8a666b82b3d00fa7",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s9-shape1030.png": {
+      "blob": "16a008a5bc86897d2eb50d3f9732d527bacd7df4",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/s9-shape1032.png": {
+      "blob": "365cbb575cf46234f8752fee124f5cb83c84929c",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/scenedeck-thumbnails/conventional-research.png": {
+      "blob": "084263f1ced387ff8d580403c908b6c2b3185157",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/scenedeck-thumbnails/cover.png": {
+      "blob": "dc750fe5652d4e67509c0b3cd9941d103b5bd335",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/scenedeck-thumbnails/implementation-barrier.png": {
+      "blob": "6146cb24ac18f7799192d41a10e316665b91225f",
+      "mode": "100644"
+    },
+    "assets/f80cb964-6f15-44cd-b32e-35e9c19169ee/scenedeck-thumbnails/wishful-research.png": {
+      "blob": "d33a69446acad898898ac64bb7000529d61c204b",
+      "mode": "100644"
+    },
     "assets/visual-generation-guide/scenedeck-thumbnails/photo-studio-opening.png": {
       "blob": "f16ce6d762a199c98f5efca183580700f73478af",
       "mode": "100644"
     },
     "course-library.json": {
-      "blob": "5225448b3df42d219cf97480978b83e85d26f517",
+      "blob": "9e42c070b754356d0c9ae5aea72d5e81e25b259b",
       "mode": "100644"
     },
     "creator-skill/SKILL.md": {
-      "blob": "e82a3b2444fa9bb0b95fe2f8505807491e439219",
+      "blob": "257a086c5f443379ff121ac3e0941075e978ee8d",
       "mode": "100644"
     },
     "creator-skill/assets/idl_basic_template.png": {
@@ -4353,7 +4573,7 @@
       "mode": "100644"
     },
     "creator-skill/references/design/course-outline.md": {
-      "blob": "6049f0b42e0335089261d38f52a0c5a42bf93fcd",
+      "blob": "216a169d0545c7fb81a59243109fb0d92012e02a",
       "mode": "100644"
     },
     "creator-skill/references/design/design.md": {
@@ -4397,7 +4617,7 @@
       "mode": "100644"
     },
     "creator-skill/references/workflow/from-scratch.md": {
-      "blob": "149b893325cac2843b3fd0fa83158dee3e76af2e",
+      "blob": "1b48c9522c446f8f2c5d8d29eac12c7f4f305458",
       "mode": "100644"
     },
     "creator-skill/references/workflow/reference-adaptation.md": {
@@ -5796,8 +6016,164 @@
       "blob": "c491b43241b50dd72b6e524fb4c573e506069ab0",
       "mode": "100644"
     },
+    "modules/LLM-Practice-Education/LLMPracticeEducationGuide.tsx": {
+      "blob": "a295ff26243e3e055af79f011e55ee5df56120b2",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/LLMPracticeEducationPpt.tsx": {
+      "blob": "02bcafbd183afa9d28b6ed5ecbba831a45dc6692",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/components/WormholeLessonFrame.tsx": {
+      "blob": "8aff736b75a835d0a63c073f6d1cb69291eab147",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/components/WormholePages.css": {
+      "blob": "214e0dabaea25d511524b2a50aee8253bd2c9aa8",
+      "mode": "100644"
+    },
     "modules/LLM-Practice-Education/outlines.json": {
-      "blob": "c76960a6f1f0c0af95a42ab210f6445d17efe55a",
+      "blob": "cb204f82f4b4f08992c303e640d8d52d948b9a5b",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionDefinitionPage/ConvolutionDefinitionPage.css": {
+      "blob": "4d2fc52272795582a2526e7398552f69cbfa9c17",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionDefinitionPage/ConvolutionDefinitionPage.tsx": {
+      "blob": "4e1436585ceed4923f7d28abb215689cf4ad1906",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionObservationPage/ConvolutionObservationPage.css": {
+      "blob": "8cc57b3190886109b84649a05eae4bec2e04dbf1",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionObservationPage/ConvolutionObservationPage.tsx": {
+      "blob": "7ecc0f6cfa8f73d08688a12d6b9a1854ef3dccc6",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionObservationPage/convolutionModel.ts": {
+      "blob": "3b5bb5e76d752436ae2385ec5b09ff74020ff71a",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionWalkthroughPage/ConvolutionWalkthroughPage.css": {
+      "blob": "d2989361fe584e5819d80ad1e5a5e61026cc8857",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionWalkthroughPage/ConvolutionWalkthroughPage.tsx": {
+      "blob": "71aaa0fa1266d32d78b92958f6bc878c7e4e130c",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionWalkthroughPage/ZoomScene.tsx": {
+      "blob": "252cf0ee205cc479c42ddcb428bdde2173a34ec0",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ConvolutionWalkthroughPage/walkthroughModel.ts": {
+      "blob": "d0f096d293d4ad467615a7c5a0a8f19a815c8f03",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/EducationPathsPage/EducationPathsPage.css": {
+      "blob": "85c362e5be173063a244b7f5a602cdbc61108754",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/EducationPathsPage/EducationPathsPage.tsx": {
+      "blob": "698829e38955b6126e7e168f345530d8bdf0b792",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/EducationPathsPage/KnowledgeIcebergScene.tsx": {
+      "blob": "e0fe5db0efe1d993d114f493c461dbb1216c6a39",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/FoundationFrontierPage/FoundationFrontierPage.css": {
+      "blob": "5d3c6baf8b76e787fc1897896b286bdd5076757f",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/FoundationFrontierPage/FoundationFrontierPage.tsx": {
+      "blob": "8396c36e863a22c9f8aea2cbcbf0c1b19d7b9fc2",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/IntuitiveLearningPage/IntuitiveLearningPage.css": {
+      "blob": "5d700e01eba91c0c66b231d59674ac9e997a9e80",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/IntuitiveLearningPage/IntuitiveLearningPage.tsx": {
+      "blob": "acf248159f30de89db9717aec2afcb384060adb2",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/IntuitiveLearningPage/WormholeLab.css": {
+      "blob": "e9a2e65d9c4362c027150e71b57bc00de5c6aa5b",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/IntuitiveLearningPage/WormholeLab.tsx": {
+      "blob": "247e24884b23fc8cc1e4f36441654a5b1992223d",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/IntuitiveLearningPage/WormholeScene.tsx": {
+      "blob": "02628201ee6c0ed8accd816302018e130d470694",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/IntuitiveLearningPage/wormholeMatter.ts": {
+      "blob": "a91d7ea573a0725cd6a5f02dabcc7f3596c07c4c",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/KnowledgeGrowthPage/KnowledgeDiagramViewport.tsx": {
+      "blob": "370288df082f832a58742bb778616bb7f99ec630",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/KnowledgeGrowthPage/KnowledgeGrowthPage.css": {
+      "blob": "2bb50237c559fcb21bfe9947a0f66e2c4e5f7c72",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/KnowledgeGrowthPage/KnowledgeGrowthPage.tsx": {
+      "blob": "c0ac7676bcadfcd97bef1093c89613d2b1da6711",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/KnowledgeGrowthPage/knowledgeGrowthModel.ts": {
+      "blob": "2a118d94422f3e72f418949ef78c77d1dfd4e0e7",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/LearningGoalPage/LearningGoalPage.css": {
+      "blob": "f391be9e0798cca17313295a2e1edc35ac890d3e",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/LearningGoalPage/LearningGoalPage.tsx": {
+      "blob": "fdd311fc34d02bba3b075ae387df81504730c27f",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/OpeningPage/OpeningPage.css": {
+      "blob": "fb75d0b4f998165cb7b11944e354cd21b0110cce",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/OpeningPage/OpeningPage.tsx": {
+      "blob": "541a73cd03d1fee3c4c63d4040cdb13ed924fc9c",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/PopularSciencePage/FoldingPaperScene.tsx": {
+      "blob": "8c10f6939676626e68ac5fbd1685d8696b1dbb44",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/PopularSciencePage/FoldingWormhole.css": {
+      "blob": "3622680a2d082ad8616b6b3c0deb690814767322",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/PopularSciencePage/FoldingWormhole.tsx": {
+      "blob": "a45ce7803933511ce59b39ef254a50c639f9477e",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/PopularSciencePage/PopularSciencePage.css": {
+      "blob": "b9b758ed001124c12c3f21fe15b7d2bbffc522dc",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/PopularSciencePage/PopularSciencePage.tsx": {
+      "blob": "8136ccff162fe0709f93026bd368122d0e2d486b",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ProfessionalEducationPage/ProfessionalEducationPage.css": {
+      "blob": "2999b8cd40c9b92ed79e105719c943d7f084023d",
+      "mode": "100644"
+    },
+    "modules/LLM-Practice-Education/pages/ProfessionalEducationPage/ProfessionalEducationPage.tsx": {
+      "blob": "c17e47b9ee2924708ca95d948ccf16fe44b58c2c",
       "mode": "100644"
     },
     "modules/Linear-Regression-Loss/GuidePage.tsx": {
@@ -6817,7 +7193,7 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/README.md": {
-      "blob": "80725e4bdda4ace0b6e1b49ea2d46ba337da55b2",
+      "blob": "c37d70b6c71660f418214c5505139b814249600c",
       "mode": "100644"
     },
     "modules/Regression-Loss/RegressionLossPpt.tsx": {
@@ -6829,15 +7205,27 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/outlines.json": {
-      "blob": "84a794d419a7b84a94db008090e6bfb3cb45dd81",
+      "blob": "6feee0da674803eb116e62b3173ad906342d7929",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/AutomaticSearchPage/AutomaticSearchPage.css": {
-      "blob": "a11953020719e2a4c33f78494b03ca77742153c8",
+      "blob": "62e98c7530911ae5bb3c154a1c6af571ae5007bc",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/AutomaticSearchPage/AutomaticSearchPage.tsx": {
-      "blob": "f007c85f27b28801bede1e8b93b686240ba6c2e4",
+      "blob": "12d88acf8f674915eba6a5b0685c2a968479a64e",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/AutomaticSearchPage/SearchLimitsPage.css": {
+      "blob": "d366b03cfab23788ae65a81cc646cfe5e91c3702",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/AutomaticSearchPage/SearchLimitsPage.tsx": {
+      "blob": "dd9ea0fc7a7f64b50bea104ebaa19705337624fe",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/AutomaticSearchPage/searchSpace.ts": {
+      "blob": "560bbadbb471330bb14cd2050794519904372259",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/BoatClassificationPage/assets/boat-1.png": {
@@ -6873,11 +7261,11 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/CaoChongPage/CaoChongPage.tsx": {
-      "blob": "a9532929fbb915647d5ca3fea7fd76ebf77dce37",
+      "blob": "549cde127cc39607a0a0803c2ac0d74ac2069464",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/CaoChongPage/experiment.ts": {
-      "blob": "25ea9db999b5ba53ee14c657671ff0d354cc7527",
+      "blob": "2794275ab5a6bf7f9cc043a6b208b0de0955ce5f",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/ConvexMsePage/ConvexMsePage.css": {
@@ -6893,11 +7281,11 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/EstimateWeightPage/EstimateWeightPage.css": {
-      "blob": "80107de1266f27a0bd5fa5f634c7321518769b0d",
+      "blob": "3a2b7c183923bb31dc540dd5cd8a4440cd3e8bef",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/EstimateWeightPage/EstimateWeightPage.tsx": {
-      "blob": "3900377dcf7034272ad7c1a624b926182c47169e",
+      "blob": "14998bb76ad8b26cd2e67f895b4ab3227018fe23",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/EstimateWeightPage/model.ts": {
@@ -6913,19 +7301,19 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LeastSquaresPage/LeastSquaresPage.css": {
-      "blob": "260a881d93475e70a182b2b129e1a2e7a115c3ab",
+      "blob": "e295d153f3db64b4725738cdab882e65a37f7317",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LeastSquaresPage/LeastSquaresPage.tsx": {
-      "blob": "8b961ebe922cd8e85d170c4654121c72cf1b4c44",
+      "blob": "7cf1811a96e5427ba50cba501a01f1c195066c08",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LinearRegressionPage/LinearRegressionPage.css": {
-      "blob": "350f8b95cf53735efadb0ce6ae523da04cc9ea91",
+      "blob": "7e31aebd74966a0e16ec32c4b4092aa9f4d4387a",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LinearRegressionPage/LinearRegressionPage.tsx": {
-      "blob": "4cb597869f405e8a1f64df625eefabaca8d60bbe",
+      "blob": "41d071a514e486bd0c92ee9cf681bdcfaf6a684b",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LossLandscape/SurfaceDiagram.css": {
@@ -7029,11 +7417,55 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/regressionData.ts": {
-      "blob": "73f4e80e1f470f2c7d608b540cb434a9ea41764f",
+      "blob": "d3c688f7b2d7514173f7ef3ad2f7967b892c01eb",
       "mode": "100644"
     },
     "modules/Regression-Loss/speakerNotes.ts": {
       "blob": "bdceb01a6f9cce21a91196e1deadc0d571ead840",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/ResearchIntelligenceEraGuide.tsx": {
+      "blob": "1efaf6d97f50f50f1c5a588b7fd420f0669f3eaa",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/ResearchIntelligenceEraPpt.tsx": {
+      "blob": "681fb8627e97838779db47df499e86d0f762a372",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/outlines.json": {
+      "blob": "c4c3af7bfdcc7d4a5250e308cac84678438a5174",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/ConventionalResearchPage/ConventionalResearchPage.css": {
+      "blob": "a063a3796b4d5390d63d8ca1c30b1fe50ecea5d9",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/ConventionalResearchPage/ConventionalResearchPage.tsx": {
+      "blob": "1da60ad0ffb6636b416849806b13fe29dfce8cbb",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/CoverPage/CoverPage.css": {
+      "blob": "26342c1c3ae30b2ecca1551969fa08c4942faeda",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/CoverPage/CoverPage.tsx": {
+      "blob": "ac507d5da7ac2064ca8acc6e674878a2d372e015",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/ImplementationBarrierPage/ImplementationBarrierPage.css": {
+      "blob": "4fc945d2c205e9692b46e6d7f26e6162510b6b34",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/ImplementationBarrierPage/ImplementationBarrierPage.tsx": {
+      "blob": "40dde2b99df86a131118c09b18e901b1c628b9f6",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/WishfulResearchPage/WishfulResearchPage.css": {
+      "blob": "c572006bee71467fa955ee696c692ba8ea0d9327",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/WishfulResearchPage/WishfulResearchPage.tsx": {
+      "blob": "e440b771f970ba2087e45618bf4ae66a094beba0",
       "mode": "100644"
     },
     "modules/Tldraw-Demo/TldrawDemoPage.tsx": {
@@ -8577,7 +9009,7 @@
       "mode": "100644"
     },
     "source-lock.json": {
-      "blob": "91139284d04aa950d236de9acf4f685dfef18d15",
+      "blob": "4855446529e2542f6259544d1377fa0ad1aaf48e",
       "mode": "100644"
     }
   },
