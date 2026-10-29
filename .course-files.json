@@ -1961,7 +1961,7 @@
       "mode": "100644"
     },
     "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/intuitive-learning.png": {
-      "blob": "0a187f19c17553be112afd268520de99737477ae",
+      "blob": "c1f81c64ef8f807fe46b5bcc671693cc53a18f2c",
       "mode": "100644"
     },
     "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/knowledge-growth.png": {
@@ -1977,11 +1977,11 @@
       "mode": "100644"
     },
     "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/popular-science.png": {
-      "blob": "e15f6579c49af074f13026ee15786fa7238ec810",
+      "blob": "60b177439d2180ea8fc06bcc951e981d6a390891",
       "mode": "100644"
     },
     "assets/70b484d3-c7ca-4db7-a4dd-3dee793ca316/scenedeck-thumbnails/professional-education.png": {
-      "blob": "ff4516c34316b4172d7728c906df44fe641df911",
+      "blob": "7f125898c16d29a5a70f7c0267edb6d56cbc52b9",
       "mode": "100644"
     },
     "assets/80396753-7fc8-4f55-9188-bddbdb828169/1980_usa.mp4": {
@@ -3956,6 +3956,594 @@
       "blob": "b510f7fceac62862036138b1fb3e2788ff4b7a53",
       "mode": "100644"
     },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/assembly/gomoku-bg.mp4": {
+      "blob": "952477c85450ab4be9ab4fda70157749880169ed",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/creator-equal-ascent-background.png": {
+      "blob": "c93fd00a875df29c1bfaef5aaa14a7483b0dea24",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/creator-equal-ascent-clean-background.png": {
+      "blob": "37a64961a816796aae2a695085ec9ac43119b896",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/creator-knowledge-crevasse-background.png": {
+      "blob": "c375ee2811a684938added2f525437f3bf5dafb3",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/creator-knowledge-crevasse.png": {
+      "blob": "3a6aa3589122caf03ed550606d7b617790c69e63",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/creator-shared-ascent-background.png": {
+      "blob": "f1fb0f82b2d6456623a8aaa3cc18d887effe7605",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/edge-examples/bridge.jpg": {
+      "blob": "4204c65f4c0a38c458ff451e3372302f720b98e4",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/edge-examples/building.jpg": {
+      "blob": "cf90a88858236aaed0bc6e894c4db4d88423e934",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/edge-examples/chalet.jpg": {
+      "blob": "548777addfd1b7a6a9866272b68e0b606f2b23e8",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/edge-examples/pineapple.jpg": {
+      "blob": "c09bd9c27c516f4b5f397602bc1da139eb546223",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/edge-examples/zebra.jpg": {
+      "blob": "fd68d49497c7e90cb18271583cf690222887b679",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/education-iceberg-background.png": {
+      "blob": "9587949024e4e4e9f37e8f77d41072441ae5bd39",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/foundation-frontier-materials-v1.png": {
+      "blob": "438b31c0ac3366c99c5fc293986620cb1e419933",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/foundation-frontier-materials-v2.png": {
+      "blob": "294b3c3018e3765871111956fa971f9e65b53a5b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/frontend-journey.png": {
+      "blob": "c24627e0ec4a7bcb8cb6418acdb6ad2f4960d49f",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/human-causal-mask-single-question.png": {
+      "blob": "c168d1790e6619ade32bcda4bef6b8b79770d048",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/human-causal-mask.png": {
+      "blob": "223ddd0585915658884c93ee378dd401eb53c49d",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/human-collaboration-blank-pads.png": {
+      "blob": "5ee1b75fafe6432a30455e383e463a5ae1c31d36",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/human-collaboration.png": {
+      "blob": "7bfdebea43d280d37cb69a413e8c9f75a8a15b45",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/knowledge-era-portraits.png": {
+      "blob": "36aefae25a5379a805fcf1fd391f568a775d9ca6",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/knowledge-growth-art.png": {
+      "blob": "038e65762413b058de01239c4277ef8a08df4944",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/knowledge-mountain-stages.png": {
+      "blob": "efb83742be8dc0da889239b5d1d636ea0598fad7",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/knowledge-mountains-v2.png": {
+      "blob": "5d863303fa34fa858172140d9d5b32ba1275032b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/mies-portrait.png": {
+      "blob": "4b9e7a5fe913ecaa38ee74745be108fdd45a8680",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/activation-catalog.png": {
+      "blob": "876bfeb8a44ffa3558d0b89fc4f713dda4bf517c",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/biological-structure.png": {
+      "blob": "bd241501933996e77dc0b433c2a3c6c73344959f",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/convolution/board-as-numbers.png": {
+      "blob": "9fd725a7ead4a19333998ca6caa1ea25c72a38bc",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/convolution/gomoku-play-completed.png": {
+      "blob": "6c2d255a1f25c736c7fafeba899cf64b86ac2111",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/convolution/gomoku-play.png": {
+      "blob": "684f37709d0baa12dfb9599ea05509cefb6e8107",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/convolution/kernel-design.png": {
+      "blob": "d4889166a7bc35141949a6e79c0a2df1a9263686",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/convolution/window-scan.png": {
+      "blob": "583c17dd9ab629c832647d6e4e7db5d267977102",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/decision-bridge.png": {
+      "blob": "fa4ad7fddb1507272e6c882d262d54d96d2215d8",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/multi-format/weighted-contribution.png": {
+      "blob": "8fc2093e2b90afe1eb3e3d1a8335fd97aa571cd3",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/opening-illustration-v1.png": {
+      "blob": "e6ce897fe77c33ff492760289c9f5ad3e833b1d2",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/platform-capability-icons-v1.png": {
+      "blob": "866d5fa15fa1a381bb53d7967078fcaf92c26ec7",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/skill-ablation/without-format-v2.png": {
+      "blob": "c943ba43774ce03eb96b7cc5f0f2937b11fa5dd9",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/skill-ablation/without-interaction-v2.png": {
+      "blob": "91a1dcb8191ed4743cb2c70ba1db6640cc8a7076",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/skill-ablation/without-structure-v2.png": {
+      "blob": "f8d67b58ae97bd40050506fa7e5ac6cc1666063f",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/skill-ablation/without-visual-v2.png": {
+      "blob": "3361a3ede0f2f20c0c277834ceba24ff3a818f50",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/weighing-elephant.png": {
+      "blob": "5b752e26e101db0a58db346e580e81cdfe1b55ee",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/weight-sharing/version-1.png": {
+      "blob": "cd3dcfd0a2d70fd4dfb1fea77c220212ad3960ef",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/weight-sharing/version-2.png": {
+      "blob": "38cbbba5ffdf0c1c3399f719808cc6d9c2aa6c32",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/weight-sharing/version-3.png": {
+      "blob": "9a6b74b54a4a472f15f87d8df20a9ab1437f093d",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/weight-sharing/version-4.png": {
+      "blob": "ea19d63bc77fc34f266e6c06a439672c8df8bb6c",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/images/weight-sharing/version-5.png": {
+      "blob": "e77d8a9b735b35ce3aa0832c8de2b6c8a981b1b6",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/ai-calibration.png": {
+      "blob": "dfc3d5db56cf51e0fc2ecd6c1a7d462cc2c065a1",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/creation-workflow.png": {
+      "blob": "1222fe14757a58e9f985147768917b9226b5a901",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/creator-guide-title.png": {
+      "blob": "1a8e0fb67cfe40302f8287628e9567d2a7c65e2f",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/discovery-learning.png": {
+      "blob": "4d5db4253fce6680eff0f6cdd6349c54047afe63",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/education-paths.png": {
+      "blob": "2a3fd5c2d3c42cb92a6c10417e94b551f6017b83",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/foundation-frontier.png": {
+      "blob": "7a93a662d7a12cbf047e1595963eadf3cffdf939",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/frontend-journey.png": {
+      "blob": "f17c7f52ad30d9766bbb0af1aecf9a30b42ed5cc",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/human-collaboration.png": {
+      "blob": "2954cd0ce2da33a344a936f9ab7ef8ce4c6ed837",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/intuitive-learning.png": {
+      "blob": "c1f81c64ef8f807fe46b5bcc671693cc53a18f2c",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/knowledge-growth.png": {
+      "blob": "76f028974a4d32b1d9611e77eb2d6732f981f70a",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/learning-goals.png": {
+      "blob": "c6448cb5d046a00c0b0a74dda1b94d9796d9020e",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/less-is-more.png": {
+      "blob": "4dc0b88e3061764a7290ac3944afd4dca07fde70",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/multi-format.png": {
+      "blob": "dec658bb25b69ce00e82237a09a5afeda88e44f1",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/opening.png": {
+      "blob": "e49058ca1ed3e40373621779aa01ea4205e428c7",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/optional-interaction.png": {
+      "blob": "80f577a12139af79798f3a00cba193d59f011ccd",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/popular-science.png": {
+      "blob": "60b177439d2180ea8fc06bcc951e981d6a390891",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/presentation-comparison.png": {
+      "blob": "817f125e5bbac2ea828d9c96abc30b93044b8fc2",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/professional-education.png": {
+      "blob": "7f125898c16d29a5a70f7c0267edb6d56cbc52b9",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/progressive-disclosure.png": {
+      "blob": "8b5bf473d96253528c068f1909b79031baa602e6",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/shuku-growth.png": {
+      "blob": "613f9b6cb4e7d6ddf27278dafd1c8ff40f205f89",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/shuku-participation.png": {
+      "blob": "67f69cc85a7ecb44739fa63c8333076cf4daccc2",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/shuku-review.png": {
+      "blob": "1d6cd22d60048fafc8ea3a06594c3de8fa4f87eb",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/shuku-why.png": {
+      "blob": "fe18316611b95314296ad467a4525828b8f731b7",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/skill-constraints.png": {
+      "blob": "1763e02e5a05ead5f0a54165683f81903afa33a1",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/skill-overview.png": {
+      "blob": "18ab3fab72aa28c9643e6f0f3ae7162d4ba94a8e",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/scenedeck-thumbnails/ui-kit.png": {
+      "blob": "6c843bfc2010ada6495c34e819a428bdbbcf8b43",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/videos/weight-sharing.mp4": {
+      "blob": "a6a4ef04c9427ec831a467b31eb170bad81533b1",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/boat-rectangular.png": {
+      "blob": "bc0ba2b80dceaa389860f39c754f7b477645662d",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/be_city.png": {
+      "blob": "fd8315fb99c85e5b46c57983bef2151d32915228",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/bg1.png": {
+      "blob": "025a8eac78306672ea67cef061be51ed416e4b30",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/bg_video.mp4": {
+      "blob": "952477c85450ab4be9ab4fda70157749880169ed",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/brick.png": {
+      "blob": "56875f19e3b096d2704b33dfac4417959b64832c",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/caiermate.png": {
+      "blob": "15ab5ce87cc3304df08ed55485ef0f5d77244df8",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/cloth.png": {
+      "blob": "15b8c478e3eecc785e522ec2b7b0047eb3bc1d31",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/dvd.png": {
+      "blob": "06ac5bd0bf4e75f0c6fe90ebb59cf68104ed78c6",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/dynamic_bg.gif": {
+      "blob": "51e5702903008e0fe5d5cbfa848fa4c912597db8",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/eluanshi.png": {
+      "blob": "147ffec8fbfab89fe11089cc30a0e099ff62753a",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/layerd_scene/bg.png": {
+      "blob": "52f2f6bafed81a939b1d6cbdebfcff0a67f6dae7",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/layerd_scene/dark_foliage.png": {
+      "blob": "b846e4fad99c3c0a97a23de2b2259dc79f98a56b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/layerd_scene/pillar.png": {
+      "blob": "754b36e087c5441cb6c23fd3027f364265991c9a",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/layerd_scene/ufo.png": {
+      "blob": "b1b08ff0f698116f58c92017173024c9ae70dc80",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/mengdelian.png": {
+      "blob": "e1ed21b22a79b0ae9de398e769d72864a4879b62",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/pineapple.png": {
+      "blob": "6976477d33844c1c5884d6c7402211dd53ca38f1",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/board-as-numbers.png": {
+      "blob": "26dac8495a79a94c034c46d3314b5937c7e14924",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/common-kernels.png": {
+      "blob": "7292866eb53c4af07f87a88561a9aa7db796026e",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/correlation-convolution.png": {
+      "blob": "2a04867e194f59d644048016483f976622cb1654",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/deformable-convolution.png": {
+      "blob": "efd04fe93a0f198c2063e0ef5869aca91e9d0aea",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/dilated-convolution.png": {
+      "blob": "1ef640602205dc9ca2f79b5aa059509a0797155b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/gomoku-play.png": {
+      "blob": "e3d7d79d0dc130a9ac539697a3d017ebc7245c8b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/gradient.png": {
+      "blob": "9df966cee661834216c7919dea5a54cadc48a6b8",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/kernel-basics.png": {
+      "blob": "e738fcda85505ca1dbbe32cf590c57b6bfe57a94",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/kernel-design.png": {
+      "blob": "f9152c61f04a2f4e29f0c677ad709eea97db040b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/kernel-size.png": {
+      "blob": "a9475d94ec288537855fd44e0b24dbfe5c530455",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/laplacian-construction.png": {
+      "blob": "0823eee5023db988434fe2c671ebb913e22d0ff2",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/multi-kernel.png": {
+      "blob": "b728331a8b4c652a43f827669ae17107b8b281ae",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/padding.png": {
+      "blob": "0ed68547a560c455f018bc8f4ed5883a92eeb842",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/receptive-field.png": {
+      "blob": "9ec9b0d299439db6e5f81253df5fe4ea097508b6",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/rgb-convolution.png": {
+      "blob": "f510b9d5bbfb26c4fdadac399d3efde5f2f33d9b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/second-difference.png": {
+      "blob": "422d37d6afa21575326fbdc26039063b08f2ae3c",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/sobel-construction.png": {
+      "blob": "c81a68cd1b49fb180afc0003e3b292a10ad2b335",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/sparse-connectivity.png": {
+      "blob": "f59b389e11ffba69062d14c86e117c8d1392a355",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/stride.png": {
+      "blob": "e4fb275a27efc982a432cba65b0cccc371ef9993",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/translation-equivariance.png": {
+      "blob": "bdda983c7b8008f7c1b6c3137465aa9617f7a1bf",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/weight-sharing.png": {
+      "blob": "53593018b733a0dbc65d1e3889c4eaeec53221de",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/weighted-kernel.png": {
+      "blob": "0fd8009469591f2e27b2f7d69939d22821815f9e",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/scenedeck-thumbnails/window-scan.png": {
+      "blob": "77cb3bdc6a38c9ca42ba72ff2180469495d4e9fc",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/senlin.png": {
+      "blob": "6aa9dda8fb3d4e38e94ea5699409c82936a118ff",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/shutiaojianzhu.png": {
+      "blob": "fdb8309a6efa7642a3895ef822960284a9d2d696",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/snake.png": {
+      "blob": "8bb6c105dc25a6b0751c8a5c405ba8afc8371330",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/xiagu.png": {
+      "blob": "dca293ce6b330d70a93640a1f3ceed1547dc0cf4",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/xiandaijianzhu.png": {
+      "blob": "4d4ddb21f020c68e16fb8a7594ead4e7953a251e",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/xielaqiao.png": {
+      "blob": "9c58a268e106b1973b955bc7a1d78744bbb19001",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/convolution-course/zebra.png": {
+      "blob": "86efa39aacde6917d96b60bd2ff6a02a25a44122",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/board-as-numbers.png": {
+      "blob": "26dac8495a79a94c034c46d3314b5937c7e14924",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/common-kernels.png": {
+      "blob": "7292866eb53c4af07f87a88561a9aa7db796026e",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/correlation-convolution.png": {
+      "blob": "2a04867e194f59d644048016483f976622cb1654",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/course-ending.png": {
+      "blob": "cdbb40475be203c864f0b008245b1703fed5e0cc",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/deformable-convolution.png": {
+      "blob": "efd04fe93a0f198c2063e0ef5869aca91e9d0aea",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/dilated-convolution.png": {
+      "blob": "1ef640602205dc9ca2f79b5aa059509a0797155b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/gomoku-play.png": {
+      "blob": "e3d7d79d0dc130a9ac539697a3d017ebc7245c8b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/gradient.png": {
+      "blob": "9df966cee661834216c7919dea5a54cadc48a6b8",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/kernel-basics.png": {
+      "blob": "e738fcda85505ca1dbbe32cf590c57b6bfe57a94",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/kernel-design.png": {
+      "blob": "f9152c61f04a2f4e29f0c677ad709eea97db040b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/kernel-size.png": {
+      "blob": "a9475d94ec288537855fd44e0b24dbfe5c530455",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/laplacian-construction.png": {
+      "blob": "0823eee5023db988434fe2c671ebb913e22d0ff2",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/multi-kernel.png": {
+      "blob": "b728331a8b4c652a43f827669ae17107b8b281ae",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/padding.png": {
+      "blob": "0ed68547a560c455f018bc8f4ed5883a92eeb842",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/receptive-field.png": {
+      "blob": "9ec9b0d299439db6e5f81253df5fe4ea097508b6",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/rgb-convolution.png": {
+      "blob": "f510b9d5bbfb26c4fdadac399d3efde5f2f33d9b",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/second-difference.png": {
+      "blob": "422d37d6afa21575326fbdc26039063b08f2ae3c",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/sobel-construction.png": {
+      "blob": "c81a68cd1b49fb180afc0003e3b292a10ad2b335",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/sparse-connectivity.png": {
+      "blob": "f59b389e11ffba69062d14c86e117c8d1392a355",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/stride.png": {
+      "blob": "e4fb275a27efc982a432cba65b0cccc371ef9993",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/translation-equivariance.png": {
+      "blob": "bdda983c7b8008f7c1b6c3137465aa9617f7a1bf",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/weight-sharing.png": {
+      "blob": "53593018b733a0dbc65d1e3889c4eaeec53221de",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/weighted-kernel.png": {
+      "blob": "0fd8009469591f2e27b2f7d69939d22821815f9e",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/course-thumbnails/window-scan.png": {
+      "blob": "77cb3bdc6a38c9ca42ba72ff2180469495d4e9fc",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/elephant.png": {
+      "blob": "8c910167dbdfbbc0f491090b5a3d53a70a01e158",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/gomoku-design-draft.png": {
+      "blob": "0a913232b298cb0bff96dc2f98da2f2f83571dfd",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/gomoku-design-refined.png": {
+      "blob": "c42442974f5863797bd111522846d3def555958a",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/river-video-poster.jpg": {
+      "blob": "729968927bd81f7fa15e161ef44674d8a453d13d",
+      "mode": "100644"
+    },
+    "assets/b8d86e85-2150-47e3-9e1a-aa7cc7cce15c/workflow/rock.png": {
+      "blob": "356f90f5293bce40833f579f557e603dff9b7614",
+      "mode": "100644"
+    },
     "assets/cb456124-d558-4bbe-953d-3620cb74197b/1.png": {
       "blob": "992345f45126e1d11d2262bd59d59c9e1a2c8525",
       "mode": "100644"
@@ -4513,7 +5101,7 @@
       "mode": "100644"
     },
     "course-library.json": {
-      "blob": "9e42c070b754356d0c9ae5aea72d5e81e25b259b",
+      "blob": "23434d62c2397740efbd456d454951bb6821dc1b",
       "mode": "100644"
     },
     "creator-skill/SKILL.md": {
@@ -4786,6 +5374,886 @@
     },
     "modules/AI-Learning-Exploration/pages/OpeningPage/OpeningPage.tsx": {
       "blob": "b2c5f168df370b15de97fb735d56b985be4c1783",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/AIPracticeEducationGuide.tsx": {
+      "blob": "b4b47e95137fb442d1b8036382482a9417ff2ebd",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/AIPracticeEducationPpt.tsx": {
+      "blob": "8dcccdd3240d57a118fd348e234f2c1a48203f4c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/CourseTypography.css": {
+      "blob": "5d19df2eda616646034393f1b2d94acbae1b5339",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/CreatorTypography.css": {
+      "blob": "cf4ad97acf97edfbd84ad52b422dffc076bf3653",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/StructurePreview.css": {
+      "blob": "d2bebc8ee28e2198605bf4bdb40dc22133292070",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/comparison-atlas.png": {
+      "blob": "9ac260f21750549f9efc0a1d4fdbdce90756e5cb",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/v2/format-with.png": {
+      "blob": "725838974d9d8c2ae04626c30a73f371c3105961",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/v2/format-without.png": {
+      "blob": "8efa085f0246fbec5275a36496134812f22a80f6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/v2/interaction-with.png": {
+      "blob": "54af9a6b99df7a52716300da223e6ddf3dfc2a0a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/v2/interaction-without.png": {
+      "blob": "d5839e5a7d2da742c0f466bbb0250c1a3ba60c89",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/v2/structure-with.png": {
+      "blob": "8e35393652927d6f6ab8ab0897563f2b353f0209",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/v2/structure-without.png": {
+      "blob": "4cd7daf9eecbb0b1c9bf3e3bc6e50b0ad1a417ed",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/v2/visual-with.png": {
+      "blob": "b4ac8f86607667a785b9dab9c494078fceaf98dc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/v2/visual-without.png": {
+      "blob": "717b440d4f802e70e7657576593e920d0901b040",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/weight-sharing/without-format-v2.png": {
+      "blob": "c943ba43774ce03eb96b7cc5f0f2937b11fa5dd9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/weight-sharing/without-format.png": {
+      "blob": "a337489675efd176111eeeabf8efb1a9d0a4937f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/weight-sharing/without-interaction-v2.png": {
+      "blob": "91a1dcb8191ed4743cb2c70ba1db6640cc8a7076",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/weight-sharing/without-interaction.png": {
+      "blob": "7a6930c0fc26051a41087dab1f010a8813401e5d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/weight-sharing/without-structure-v2.png": {
+      "blob": "f8d67b58ae97bd40050506fa7e5ac6cc1666063f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/weight-sharing/without-structure.png": {
+      "blob": "dc25ff5f789d71f8bbb8b6496886a1d047342808",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/weight-sharing/without-visual-v2.png": {
+      "blob": "3361a3ede0f2f20c0c277834ceba24ff3a818f50",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/constraint-examples/weight-sharing/without-visual.png": {
+      "blob": "79c385dbab2edb86c737fec8c25b171bbc3c5316",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/ElectronCloudLab.css": {
+      "blob": "91360fc13306e303b6b9c8e25516c97da3523b6e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/ElectronCloudLab.tsx": {
+      "blob": "8d8fc57a5bd19e99adb2ed5d29967772e1b08f35",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/ElectronCloudScene.tsx": {
+      "blob": "361df09257c31eb98577e40cf4a3a15dc780766a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/EvaluationSkillDemo.css": {
+      "blob": "39f4830b9a0f0471af0d53f1b861d04b46aea88d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/EvaluationSkillDemo.tsx": {
+      "blob": "db2f8f9d38c797e1e8078e8257e4a11e496363aa",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/EvolutionSkillDemo.css": {
+      "blob": "873219e9ed2a07b49829fbfd9e1c41b830aadc83",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/EvolutionSkillDemo.tsx": {
+      "blob": "89ef92c8e4970c8333d4be4b15697489a2754e3d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/FoldingPaperScene.tsx": {
+      "blob": "8f0044d595606ec2489d6522aa34939c10361399",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/FoldingWormhole.css": {
+      "blob": "68cafc69ab4ab0e7753af7d36659a0c374368fe4",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/FoldingWormhole.tsx": {
+      "blob": "ebfe2fb9379f5b37542fdfcad63a0e405fdf262b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/KnowledgeIcebergScene.tsx": {
+      "blob": "bf4898484fa9236ed5b99e1d10d0691934560f71",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/LossLandscape.tsx": {
+      "blob": "d8f7277f323a4190fb52cd2c11f0fb1895abe614",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/NativeStudyPreview.css": {
+      "blob": "395bce58acd5a5f97823a2d2eb508c54b07a8f5d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/NativeStudyPreview.tsx": {
+      "blob": "458e5097411f377bba8b886aa22d292dc7f95f88",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/OutlinePlaceholder.css": {
+      "blob": "48187300091a58a0e0ce3dc0a2d7abaf623f9d3c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/OutlinePlaceholder.tsx": {
+      "blob": "2a3e8b377354178dc7bd9e7de8bf455de5532504",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/SkillAblationConcept.css": {
+      "blob": "b40d86579e72e0f0b2c696417585a0001f5bcbff",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/SkillAblationConcept.tsx": {
+      "blob": "5a8bb7a2fbe7ea9c3fbf3cc823d2f079dfc6d191",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/WeightSharingAblation.css": {
+      "blob": "ff59e3a31d0384e6fad9d5ab730fa38c959f0d83",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/WeightSharingAblation.tsx": {
+      "blob": "e7c16c05f251c00ee2b0b15df623e6c4f0862a02",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/WorkflowPreview.tsx": {
+      "blob": "d1b24f059280235844153153fd06edfa8c47047c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/WormholeLab.css": {
+      "blob": "7a147b6205e13f84fd511cc8abba03b274ff0844",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/WormholeLab.tsx": {
+      "blob": "b512aab821f5aaf8e7312fd09e1c50cf1d83c610",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/WormholeLessonFrame.tsx": {
+      "blob": "8aff736b75a835d0a63c073f6d1cb69291eab147",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/WormholePages.css": {
+      "blob": "214e0dabaea25d511524b2a50aee8253bd2c9aa8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/WormholeScene.tsx": {
+      "blob": "343fd13d8b79f5aa755821d670ce2e728d200747",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/assembly/AssemblyGomoku.css": {
+      "blob": "d37199dfefcd300e8d23c55697da141457153df5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/assembly/AssemblyGomoku.tsx": {
+      "blob": "2c8b7b75528a5dbff34f5207a419ca54bf9fd747",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/assembly/AssemblyShowcase.css": {
+      "blob": "f4a5da2182e1ad1223549eb527dc2a87651786a8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/assembly/AssemblyShowcase.tsx": {
+      "blob": "8ed6c6d20da0582bbff58a77514669cb330220b5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/assembly/UIKitCatalog.tsx": {
+      "blob": "7105019344a55d340607078283f2ab6ee5b495e4",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/assembly/assemblyTimeline.ts": {
+      "blob": "c81470392ba62d137bd310f484f4a334b7aa455d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/assembly/gomokuEngine.ts": {
+      "blob": "043ca7f628e5fcebb0fc88db1ae0aef1a89c8872",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/disclosure/convolutionExperiment.ts": {
+      "blob": "fce2b91c3fd10883a77608b535c28efde1bf49b0",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/hydrogenOrbitals.ts": {
+      "blob": "107687ed984c32e9e5efc6fc14dbffe69258c96a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/CopiedCoursePreview.tsx": {
+      "blob": "41a8b6cf17b8a9423be6017cd1806bc9509aebc6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/WorkflowSimulationPreview.tsx": {
+      "blob": "d56265bba029e8f5df8f33e82f3d602897421093",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/convolutionOutline.json": {
+      "blob": "fe6a36f439c13c981f6df102ffed6f8dfbb82a97",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/GuidePage.tsx": {
+      "blob": "4d56d5a0a3642c2bf30cbb485a55a0e03420f652",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/LessonContext.tsx": {
+      "blob": "fb6ce9a8f38047c889a04e251ba5d4745e3cefb4",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/README.md": {
+      "blob": "4d2705b59998b23779504e6515ec91109be63887",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/course.tsx": {
+      "blob": "5504ddb55fe817ce44c3a7bbc927382d6aa2eafe",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/gomokuEngine.ts": {
+      "blob": "043ca7f628e5fcebb0fc88db1ae0aef1a89c8872",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/BoardAsNumbersPage/BoardAsNumbersPage.css": {
+      "blob": "a78b52e6f03d3931fec1e0f3b7f017f700457a3e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/BoardAsNumbersPage/BoardAsNumbersPage.tsx": {
+      "blob": "f7f5d644f71394167c5d437e5773e248d1057d81",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/CommonKernelsPage/CommonKernelsPage.css": {
+      "blob": "59b3fc4d1dd0d8119e72c49b6611e17d2fabf47b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/CommonKernelsPage/CommonKernelsPage.tsx": {
+      "blob": "78259fb113442191a0b105fd5fcbf6827f965acd",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/CorrelationConvolutionPage/CorrelationConvolutionPage.css": {
+      "blob": "34950f654c8969cf57ffbeab3b00451316c8441d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/CorrelationConvolutionPage/CorrelationConvolutionPage.tsx": {
+      "blob": "b9800156e5fe751e298133c11419e25d492efb50",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/DeformableConvolutionPage/DeformableConvolutionPage.css": {
+      "blob": "7713e7a318f0e033dce8be0e9630b27e6cf5b51a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/DeformableConvolutionPage/DeformableConvolutionPage.tsx": {
+      "blob": "29b36408547d958acfb90f205bcc274ca4e20b9c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/DilatedConvolutionPage/DilatedConvolutionPage.css": {
+      "blob": "8315a67dc9991893e2aecf58a6bdb51ef2c2ddb6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/DilatedConvolutionPage/DilatedConvolutionPage.tsx": {
+      "blob": "2d16703fd0c7031cfda9d40b6befc128b5f3af57",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/DilatedConvolutionPage/DilatedConvolutionScene.tsx": {
+      "blob": "92a1edf8d934282845c0562ea7f4bb7528f7e81f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/GomokuPlayPage/GomokuPlayPage.css": {
+      "blob": "eebfba636c61ee0987a07a7cd7f97819a13dc509",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/GomokuPlayPage/GomokuPlayPage.tsx": {
+      "blob": "bd6718e4f246fb8f759544f219fc876b5f9fc954",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/GradientPage/GradientPage.css": {
+      "blob": "db6683a0efc5e1580364e878b6ea6e36114b2ed2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/GradientPage/GradientPage.tsx": {
+      "blob": "64473db4f9e116e3c783df0fb7bba46a10f671f6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/KernelBasicsPage/KernelBasicsPage.css": {
+      "blob": "aa844774e10ae377423ad87d9b7a91950a443d4c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/KernelBasicsPage/KernelBasicsPage.tsx": {
+      "blob": "5d89f96f9f10f1d3b100ae511e620e2c58531dbb",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/KernelDesignPage/KernelDesignPage.css": {
+      "blob": "cd26a1c2f0a6bc5f7f9eba9ed7b3896e6272b8e9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/KernelDesignPage/KernelDesignPage.tsx": {
+      "blob": "7b83039ca6139b13439b2a977515687def32b49c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/KernelSizePage/KernelSizePage.css": {
+      "blob": "4bd2ef0dc10964b7897191c251dcf38b17771a5e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/KernelSizePage/KernelSizePage.tsx": {
+      "blob": "7fa4b9b4d51640495b1a71559f16ad8597e26a0e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/LaplacianConstructionPage/LaplacianConstructionPage.css": {
+      "blob": "b0ad79e24ed8564f2a4830bfde9a7619b29b6377",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/LaplacianConstructionPage/LaplacianConstructionPage.tsx": {
+      "blob": "0e09103ea3d2b0c036d5b1ce500c1ad4b0e7982e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/MultiKernelPage/MultiKernelPage.css": {
+      "blob": "f1d3cd8bb61fdc13c316e06633e981cd687a1489",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/MultiKernelPage/MultiKernelPage.tsx": {
+      "blob": "e911bc7ffcdc86653cc1a93686da41d6510ca3b9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/PaddingPage/PaddingPage.css": {
+      "blob": "af3ccac81e1b3e66b9be744426cd312222e633dc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/PaddingPage/PaddingPage.tsx": {
+      "blob": "679ea97afed9a1784d58f750d20573d7ab2f8b9c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/ReceptiveFieldPage/ReceptiveFieldPage.css": {
+      "blob": "e3ff46af7dcd28190aab113e6ad4454c5b5d4f7d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/ReceptiveFieldPage/ReceptiveFieldPage.tsx": {
+      "blob": "ebef3b0e590e81f366975a757da5a26cf23821da",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/ReceptiveFieldPage/ReceptiveFieldScene.tsx": {
+      "blob": "c436ed2b2bf7d51a876ea4281d4a6e8ffdf33ce4",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/RgbConvolutionPage/RgbConvolutionPage.css": {
+      "blob": "a1c81bde6ddd3c33e846b0f281024d9dc6ea3b96",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/RgbConvolutionPage/RgbConvolutionPage.tsx": {
+      "blob": "c610ae84a6a9068042fc650f997dab77e2ebc99d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/RgbConvolutionPage/RgbConvolutionScene.tsx": {
+      "blob": "5f2eb5cd7581cf7e3d295b4d058e70c085f870ea",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/SecondDifferencePage/SecondDifferencePage.css": {
+      "blob": "9cf5770c08da24c2dd0f90361f67d128a0b7527f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/SecondDifferencePage/SecondDifferencePage.tsx": {
+      "blob": "bdb889abdd97cc751bb6e509ef6c974f0d6e4581",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/SobelConstructionPage/SobelConstructionPage.css": {
+      "blob": "d85c69fb18d5dd545c192091f19cc532e0688eda",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/SobelConstructionPage/SobelConstructionPage.tsx": {
+      "blob": "98d2ade2bc0d57eb0746b35688f0eae4b77b301d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/SparseConnectivityPage/ConnectionScene.tsx": {
+      "blob": "678bda505e45810411008b7e0125d0d73286fe2f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/SparseConnectivityPage/SparseConnectivityPage.css": {
+      "blob": "d947ab98c6ade532b75fd275e0bc62b6f1c7e3f9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/SparseConnectivityPage/SparseConnectivityPage.tsx": {
+      "blob": "8d4dfaa91863f490d6857bb190d67e4860a01197",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/StridePage/StridePage.css": {
+      "blob": "b54046a5978cb063b2b210b7a099f7a63a0d0317",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/StridePage/StridePage.tsx": {
+      "blob": "93905fb4deae80cee6dd3f909421f0663fdf34f6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/TranslationEquivariancePage/TranslationEquivariancePage.css": {
+      "blob": "a7a62818b7aabba9070fcc4c63daf2f295b5f232",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/TranslationEquivariancePage/TranslationEquivariancePage.tsx": {
+      "blob": "e042fbf4158433260adce600e838314766e323c8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/WeightSharingPage/WeightSharingPage.css": {
+      "blob": "0154240c9c9454932789fb32ca5a05f0b58dcca9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/WeightSharingPage/WeightSharingPage.tsx": {
+      "blob": "8ba5eb2a3e3db1400ddb867bcdde4ca7d687c583",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/WeightSharingPage/WeightSharingScene.tsx": {
+      "blob": "fbe036d50a110bdeac1226aaaf537d9baa73ad21",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/WeightedKernelPage/WeightedKernelPage.css": {
+      "blob": "4c33ab59b6d4a633369794154931aa236cf59d2f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/WeightedKernelPage/WeightedKernelPage.tsx": {
+      "blob": "1c90c2a1e15eb755b68c957e3acf8f38679ec034",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/WindowScanPage/WindowScanPage.css": {
+      "blob": "01ed3211c6e28b1e0b6663c3bcb20aef4c9916ee",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/pages/WindowScanPage/WindowScanPage.tsx": {
+      "blob": "3e56c03c7db46fd14d00829ba571ae804b4eb1cf",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/copied-course/tailwind.css": {
+      "blob": "f292cd894378bba4114748ee0c249a1175fb4e4e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflow/simulation.ts": {
+      "blob": "a05455ef4dcd8e0acd9057b505bb6a793037869c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/workflowDemo.ts": {
+      "blob": "578461e3c24c8bc23c15463908d6a2b22e2f6bcc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/wormholeGeometry.ts": {
+      "blob": "e2f010497b50ca1d30a127aa9d832a48f8347286",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/wormholeMatter.ts": {
+      "blob": "a91d7ea573a0725cd6a5f02dabcc7f3596c07c4c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/course.tsx": {
+      "blob": "80ae68d5d180d8d777f661bedd78c151946081ef",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/outlines.json": {
+      "blob": "ffc3ad213d55b20c4654ce40d3f532c32d353821",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CodePracticePage/CodePracticePage.tsx": {
+      "blob": "08dd72bdbcc6c497ce8ba6a3c3213ea4d8d2e36a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionDefinitionPage/ConvolutionDefinitionPage.css": {
+      "blob": "d351a542ffc915b1eee784ad71b034107dc6f043",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionDefinitionPage/ConvolutionDefinitionPage.tsx": {
+      "blob": "94de73ceda020b79842792a41d629de73600ac3d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionObservationPage/ConvolutionObservationPage.css": {
+      "blob": "8cc57b3190886109b84649a05eae4bec2e04dbf1",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionObservationPage/ConvolutionObservationPage.tsx": {
+      "blob": "5d1aae50ef067b5e48fd65daf5901c12717a827e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionObservationPage/convolutionModel.ts": {
+      "blob": "3b5bb5e76d752436ae2385ec5b09ff74020ff71a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionWalkthroughPage/ConvolutionWalkthroughPage.css": {
+      "blob": "e28cad251e261fb2869e664f25e58697bfc93705",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionWalkthroughPage/ConvolutionWalkthroughPage.tsx": {
+      "blob": "cefe44953dd10731c942f438ae0c83bf1aa2e5fa",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionWalkthroughPage/ZoomScene.tsx": {
+      "blob": "b3e3c5da4067b8d7c9b4dd8076e8c4ddbcd74098",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ConvolutionWalkthroughPage/walkthroughModel.ts": {
+      "blob": "222031a58e74991ea86570abd490bf1475c0df63",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CooperationInvitationPage/CooperationInvitationPage.tsx": {
+      "blob": "4be411aef7a2206c608ece3709d8401cf0d9a8b8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CourseOrganizationPage/CourseOrganizationPage.tsx": {
+      "blob": "3683f2a06718f48d40d9b69770de2374fb81ef37",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CreationWorkflowPage.css": {
+      "blob": "ed4d61906d4cdd7b025f2a087808e155a7acc187",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CreationWorkflowPage.tsx": {
+      "blob": "a2d96f95b5afcd7af8ecb4d5757232b0a0645955",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CrossDomainFoundationPage/CrossDomainFoundationPage.tsx": {
+      "blob": "8d0b3f59631e373dca30746c05b28062a6d4307c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/DiscoveryLearningPage.css": {
+      "blob": "74916d4c34e0d77a325081dfe3c3cdca0d799a4b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/DiscoveryLearningPage.tsx": {
+      "blob": "3943eb92f8855182f4cc4ba60cbb4aa00e93db5a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/EducationPathsPage.css": {
+      "blob": "3ff2a30cca31d50a2537eecdf10aced71ae7c81f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/EducationPathsPage.tsx": {
+      "blob": "c62ebc3f9d4df625bf2603f43fb74c4a6486adea",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/EducationPathsPage/EducationPathsPage.css": {
+      "blob": "85c362e5be173063a244b7f5a602cdbc61108754",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/EducationPathsPage/EducationPathsPage.tsx": {
+      "blob": "a9d5377a4b21d3f0151aa656b700aaa8d550001d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/EducationPathsPage/KnowledgeIcebergScene.tsx": {
+      "blob": "e0fe5db0efe1d993d114f493c461dbb1216c6a39",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ExperimentAnalysisPage/ExperimentAnalysisPage.tsx": {
+      "blob": "dccce9be519983b8023629a385d0271e10f802d5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/FeedbackLoopPage/FeedbackLoopPage.tsx": {
+      "blob": "c2e55f408499f7ddcb58acf399ff81ad10fa2ac8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/FoundationFrontierPage/FoundationFrontierPage.css": {
+      "blob": "b04de72c9b94a90c0adcaf64a49bd735f79ff4d2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/FoundationFrontierPage/FoundationFrontierPage.tsx": {
+      "blob": "3b774e58a0ad2e4551dc6561a94e3a562344d656",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/FrontendJourneyPage.css": {
+      "blob": "80c280816329e4b3505f8c678f3ec260e24a7cc8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/FrontendJourneyPage.tsx": {
+      "blob": "82f6a7d18fd6c2a27ff6ae3ed2bc38ed07c3fa72",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/GomokuLearningPage/GomokuLearningPage.tsx": {
+      "blob": "6605e809c0b02161e9f4252cadb2119b0cf0bb3f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/HumanCollaborationPage.css": {
+      "blob": "5991f6f5f5a7ded8347d2d04fc6d6e5c1e633fd6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/HumanCollaborationPage.tsx": {
+      "blob": "02a1edef8e22331f444d3f884f250adf2363936a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/IntuitiveLearningPage.css": {
+      "blob": "f9c45562f8766449e4cd9eaaf8dc5a9fecb431dc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/IntuitiveLearningPage.tsx": {
+      "blob": "9fb2e43d4484df1ac42f3e6715599d19b3578293",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/IntuitiveLearningPage/IntuitiveLearningPage.css": {
+      "blob": "5d700e01eba91c0c66b231d59674ac9e997a9e80",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/IntuitiveLearningPage/IntuitiveLearningPage.tsx": {
+      "blob": "87713910da144a6a01c14465d701dc0da7cf6590",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/IntuitiveLearningPage/WormholeLab.css": {
+      "blob": "e9a2e65d9c4362c027150e71b57bc00de5c6aa5b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/IntuitiveLearningPage/WormholeLab.tsx": {
+      "blob": "247e24884b23fc8cc1e4f36441654a5b1992223d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/IntuitiveLearningPage/WormholeScene.tsx": {
+      "blob": "02628201ee6c0ed8accd816302018e130d470694",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/IntuitiveLearningPage/wormholeMatter.ts": {
+      "blob": "a91d7ea573a0725cd6a5f02dabcc7f3596c07c4c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/KnowledgeDiagramViewport.tsx": {
+      "blob": "2c9ce58f0c1045f6066015cee2cab15627cec224",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/KnowledgeGrowthPage/KnowledgeDiagramViewport.tsx": {
+      "blob": "370288df082f832a58742bb778616bb7f99ec630",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/KnowledgeGrowthPage/KnowledgeGrowthPage.css": {
+      "blob": "2bb50237c559fcb21bfe9947a0f66e2c4e5f7c72",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/KnowledgeGrowthPage/KnowledgeGrowthPage.tsx": {
+      "blob": "c0ac7676bcadfcd97bef1093c89613d2b1da6711",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/KnowledgeGrowthPage/knowledgeGrowthModel.ts": {
+      "blob": "2a118d94422f3e72f418949ef78c77d1dfd4e0e7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/KnowledgeStructurePage/KnowledgeStructurePage.tsx": {
+      "blob": "15005a9ee4cdd98b58e2ef7550163f1ebfdbe69f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/LearnerEvaluationPage/LearnerEvaluationPage.tsx": {
+      "blob": "0c3ae0c20de11dab50268a75ef3b0278ff45eb0f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/LearningGoalPage.css": {
+      "blob": "6d5d0220c9ed6ff983ad1114170cbcd610b93b4e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/LearningGoalPage.tsx": {
+      "blob": "65f946fb2fb7fd3d103b09a2c3fd3bd52050e846",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/LearningGoalPage/LearningGoalPage.css": {
+      "blob": "f391be9e0798cca17313295a2e1edc35ac890d3e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/LearningGoalPage/LearningGoalPage.tsx": {
+      "blob": "fdd311fc34d02bba3b075ae387df81504730c27f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/MultiFormatPage.css": {
+      "blob": "6cd9a892e48ea29a42727ed331a05dbfc8fe9b59",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/MultiFormatPage.tsx": {
+      "blob": "fb343a9fa35d366bdcc8cfb0989181a2b786c8f7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/MultimodalGenerationPage/MultimodalGenerationPage.tsx": {
+      "blob": "f1f128fbf72fb82a61204ba9cb5c0bd3ce7981dc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/OpeningPage/OpeningPage.css": {
+      "blob": "fb75d0b4f998165cb7b11944e354cd21b0110cce",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/OpeningPage/OpeningPage.tsx": {
+      "blob": "541a73cd03d1fee3c4c63d4040cdb13ed924fc9c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/OptionalInteractionPage.css": {
+      "blob": "2da52e5a6cb796a2ce0af15c7ed3baa3a8f05776",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/OptionalInteractionPage.tsx": {
+      "blob": "560be97e5c5b3b347e8b1990be1149d1da432cc7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PaperQualityPage/PaperQualityPage.tsx": {
+      "blob": "f6e6b936095298a5e87841c7d7087ea5072aa279",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PlatformCapabilitiesPage/PlatformCapabilitiesPage.css": {
+      "blob": "a8709e599f166d939418194cbfd7cc21e5809dca",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PlatformCapabilitiesPage/PlatformCapabilitiesPage.tsx": {
+      "blob": "42611b7ddaf41cdc6b21afe9cdf33f15539051b6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PlatformEcosystemPage/PlatformEcosystemPage.tsx": {
+      "blob": "bab7e8754d3ada834fde168064b01a6e82c1ffd1",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PlatformPositioningPage/PlatformPositioningPage.css": {
+      "blob": "a24e3fbd827c8335baddf72850708bfd634bede8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PlatformPositioningPage/PlatformPositioningPage.tsx": {
+      "blob": "03ceb09f31885d70b976b43efe3d87956db5711f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PopularSciencePage.css": {
+      "blob": "0d96f619cff222fc84ade930c3911f3aa6a01a71",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PopularSciencePage.tsx": {
+      "blob": "0699b26b1b42b45e53e18be217d621ea5386363a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PopularSciencePage/FoldingPaperScene.tsx": {
+      "blob": "8c10f6939676626e68ac5fbd1685d8696b1dbb44",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PopularSciencePage/FoldingWormhole.css": {
+      "blob": "3622680a2d082ad8616b6b3c0deb690814767322",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PopularSciencePage/FoldingWormhole.tsx": {
+      "blob": "a45ce7803933511ce59b39ef254a50c639f9477e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PopularSciencePage/PopularSciencePage.css": {
+      "blob": "b9b758ed001124c12c3f21fe15b7d2bbffc522dc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PopularSciencePage/PopularSciencePage.tsx": {
+      "blob": "5b695176625d8bccbc0de8aab60a3cd0abe95c0b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PresentationComparisonPage.css": {
+      "blob": "dc5c4daec36cabad5e4ecadbb27be73ff53ea7de",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PresentationComparisonPage.tsx": {
+      "blob": "f2994568e39715bed9bb5b5e1b153c26ae7e2242",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ProfessionalEducationPage.css": {
+      "blob": "0c4b59eabc0cb33ba5026ebc4d20f00bb05b909e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ProfessionalEducationPage.tsx": {
+      "blob": "e0cb4fcfd424b3ac2bd5a5a157564e49b59dcd62",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ProfessionalEducationPage/ProfessionalEducationPage.css": {
+      "blob": "2999b8cd40c9b92ed79e105719c943d7f084023d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ProfessionalEducationPage/ProfessionalEducationPage.tsx": {
+      "blob": "6b3216b8e125d8ba6c751dbc9b9446d5e1b0a1d5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ProgressiveDisclosurePage.css": {
+      "blob": "d2ce0c21d4cd241eb7b17b6ec10d598c198592e1",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ProgressiveDisclosurePage.tsx": {
+      "blob": "14b78fb6e0e0abc44ebc6decc7db05945567e221",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchEducationEcosystemPage/ResearchEducationEcosystemPage.tsx": {
+      "blob": "49dad38804858bd3a52234bd39441816b8b0dba8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchExtensionPage/ResearchExtensionPage.tsx": {
+      "blob": "6aca52a51c68953269c3f9bd80a4b27c2bdc51bc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchInformationPage/ResearchInformationPage.tsx": {
+      "blob": "6b263c7ab42a58aea6419c0a1db126192ea229cd",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchServicePage/ResearchServicePage.tsx": {
+      "blob": "1bff5214632122c96a102bbfc07845eb6d41fca5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ShukuIntroPages.css": {
+      "blob": "c1903d76a0d93a698508ad79e3c49302c949afd7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ShukuIntroPages.tsx": {
+      "blob": "3934f64a6ba0dc89e67734bf62f07778a78a5477",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/SkillConstraintsPage.css": {
+      "blob": "40bcc09e0a455115e32b96f561375afbb4e715f6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/SkillConstraintsPage.tsx": {
+      "blob": "af88dabf2cf026fb67d30bf1b960feef6849401d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/SkillOverviewPage.css": {
+      "blob": "a72135245bc837104175148378a76ba393ea50b9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/SkillOverviewPage.tsx": {
+      "blob": "52f229663599e05922593d4ecee83310d2459ce5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/StudentOutcomesPage/StudentOutcomesPage.tsx": {
+      "blob": "0859d3f8881263bbbbd20d93f4c0689ebb2cd3a7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/TitlePage.css": {
+      "blob": "addb51de448ef22a76e40297766c9438df349a7b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/TitlePage.tsx": {
+      "blob": "df13ed0c4f144fa740898cc9396cbe9ceed9b77a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/UIKitPage.css": {
+      "blob": "91eb5aac92ac1a9286b2f327d25c53100efcbbc2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/UIKitPage.tsx": {
+      "blob": "ded57626b03f280ad26fe2185353ee9e551311d2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/WormholePages.css": {
+      "blob": "4a4bdfa1f46f2963fd828ff987c5420a3197395b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/knowledgeGrowthModel.ts": {
+      "blob": "2a118d94422f3e72f418949ef78c77d1dfd4e0e7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/skillDocuments.d.ts": {
+      "blob": "8437d41f36984449ba41bbd3aa0866cd08f4221a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/skillDocumentsPlugin.ts": {
+      "blob": "678beb9217ce890023a1ab7535a1b192f4dd1bf1",
       "mode": "100644"
     },
     "modules/Basic-Example/BasicExampleGuide.tsx": {
@@ -6024,6 +7492,10 @@
       "blob": "02bcafbd183afa9d28b6ed5ecbba831a45dc6692",
       "mode": "100644"
     },
+    "modules/LLM-Practice-Education/OUTLINE.md": {
+      "blob": "f2539a02ec6646ad148cb4e541a172f2e79c1ea0",
+      "mode": "100644"
+    },
     "modules/LLM-Practice-Education/components/WormholeLessonFrame.tsx": {
       "blob": "8aff736b75a835d0a63c073f6d1cb69291eab147",
       "mode": "100644"
@@ -6033,15 +7505,15 @@
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/outlines.json": {
-      "blob": "cb204f82f4b4f08992c303e640d8d52d948b9a5b",
+      "blob": "94e408120c562a21df2ddda6ce63fa6c7743b36c",
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionDefinitionPage/ConvolutionDefinitionPage.css": {
-      "blob": "4d2fc52272795582a2526e7398552f69cbfa9c17",
+      "blob": "d351a542ffc915b1eee784ad71b034107dc6f043",
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionDefinitionPage/ConvolutionDefinitionPage.tsx": {
-      "blob": "4e1436585ceed4923f7d28abb215689cf4ad1906",
+      "blob": "bf806bd9848f10ec0e4a7ccfd98fe188ab5e01e6",
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionObservationPage/ConvolutionObservationPage.css": {
@@ -6049,7 +7521,7 @@
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionObservationPage/ConvolutionObservationPage.tsx": {
-      "blob": "7ecc0f6cfa8f73d08688a12d6b9a1854ef3dccc6",
+      "blob": "3b2c0e07ad7abdfa5d86b3acb1979c40ac2e800f",
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionObservationPage/convolutionModel.ts": {
@@ -6057,19 +7529,19 @@
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionWalkthroughPage/ConvolutionWalkthroughPage.css": {
-      "blob": "d2989361fe584e5819d80ad1e5a5e61026cc8857",
+      "blob": "e28cad251e261fb2869e664f25e58697bfc93705",
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionWalkthroughPage/ConvolutionWalkthroughPage.tsx": {
-      "blob": "71aaa0fa1266d32d78b92958f6bc878c7e4e130c",
+      "blob": "87a1c61bd92663e50eecab028e33d0399337a72c",
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionWalkthroughPage/ZoomScene.tsx": {
-      "blob": "252cf0ee205cc479c42ddcb428bdde2173a34ec0",
+      "blob": "b3e3c5da4067b8d7c9b4dd8076e8c4ddbcd74098",
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/ConvolutionWalkthroughPage/walkthroughModel.ts": {
-      "blob": "d0f096d293d4ad467615a7c5a0a8f19a815c8f03",
+      "blob": "222031a58e74991ea86570abd490bf1475c0df63",
       "mode": "100644"
     },
     "modules/LLM-Practice-Education/pages/EducationPathsPage/EducationPathsPage.css": {
@@ -7189,15 +8661,15 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/GuidePage.tsx": {
-      "blob": "faa2ccc9f40b81c2d8f54d73cd099f6f3b915cf0",
+      "blob": "31f4bd817b9caad166912e6287042233f53ce9bb",
       "mode": "100644"
     },
     "modules/Regression-Loss/README.md": {
-      "blob": "c37d70b6c71660f418214c5505139b814249600c",
+      "blob": "c640ee7626c40cc7983441b8c3a152fbb6108e07",
       "mode": "100644"
     },
     "modules/Regression-Loss/RegressionLossPpt.tsx": {
-      "blob": "ddef5d6533d7171a674bc7cc0230f2147689f098",
+      "blob": "d8411f9f5625e531f9c484f858151e3df8fcc19c",
       "mode": "100644"
     },
     "modules/Regression-Loss/asset-sources.json": {
@@ -7205,23 +8677,23 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/outlines.json": {
-      "blob": "6feee0da674803eb116e62b3173ad906342d7929",
+      "blob": "b68f327e5b25b180595837e7b4f704de21c410aa",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/AutomaticSearchPage/AutomaticSearchPage.css": {
-      "blob": "62e98c7530911ae5bb3c154a1c6af571ae5007bc",
+      "blob": "ad7fa777ed0c28f94646dbb3d8a5790cdea2b874",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/AutomaticSearchPage/AutomaticSearchPage.tsx": {
-      "blob": "12d88acf8f674915eba6a5b0685c2a968479a64e",
+      "blob": "ee4b21f7d7e4db8310c5e2ea11af47a87050c4be",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/AutomaticSearchPage/SearchLimitsPage.css": {
-      "blob": "d366b03cfab23788ae65a81cc646cfe5e91c3702",
+      "blob": "68cac10e9cffeb8467c4d4fa38907c40f7949a3e",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/AutomaticSearchPage/SearchLimitsPage.tsx": {
-      "blob": "dd9ea0fc7a7f64b50bea104ebaa19705337624fe",
+      "blob": "864117bace142381b9785413fa0a5ec2ff6663ba",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/AutomaticSearchPage/searchSpace.ts": {
@@ -7269,11 +8741,11 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/ConvexMsePage/ConvexMsePage.css": {
-      "blob": "20f3a3b8037bb4f0ef3a18b8551360e127d17383",
+      "blob": "637c27b49d469f3a3350b55d6b82744d41706d6e",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/ConvexMsePage/ConvexMsePage.tsx": {
-      "blob": "fda261c23bd19d856fa555f239cfd6efc29d8310",
+      "blob": "550bb201887d812b090c16170796c7a220dc3020",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/ConvexMsePage/MseBowlDiagram.tsx": {
@@ -7285,7 +8757,7 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/EstimateWeightPage/EstimateWeightPage.tsx": {
-      "blob": "14998bb76ad8b26cd2e67f895b4ab3227018fe23",
+      "blob": "6b2da1481eb1b627faf7aa243c0739f34d716008",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/EstimateWeightPage/model.ts": {
@@ -7309,11 +8781,23 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LinearRegressionPage/LinearRegressionPage.css": {
-      "blob": "7e31aebd74966a0e16ec32c4b4092aa9f4d4387a",
+      "blob": "73b683420324135cd06ad001e30316053313ee81",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LinearRegressionPage/LinearRegressionPage.tsx": {
-      "blob": "41d071a514e486bd0c92ee9cf681bdcfaf6a684b",
+      "blob": "eb097ad48c56a5b18514e24a5556222308a4fd06",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/LossChoicePage/LossChoicePage.css": {
+      "blob": "bf99277e8c09d1c7249decf7f07dd5dadfb9e903",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/LossChoicePage/LossChoicePage.tsx": {
+      "blob": "999d48f0fff2eb54014e092d3fe89a8e116d47e9",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/LossChoicePage/lossChoiceFit.ts": {
+      "blob": "736623a72bcbd66cc963679901777d34d5aee3d7",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LossLandscape/SurfaceDiagram.css": {
@@ -7321,7 +8805,7 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LossLandscape/SurfaceDiagram.tsx": {
-      "blob": "21d327e063f64e3b12555073944b900169f07b96",
+      "blob": "ba5a6c37e58ecee102a930224587d342b5c32862",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/LossLandscape/generate_catalog.py": {
@@ -7341,7 +8825,15 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/MaePage/MaePage.tsx": {
-      "blob": "34df0833537b2b97791cef0b32d59f48325886c0",
+      "blob": "b5e812c92a72934c82791f8831cb4fd18652df4d",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/MaePage/MergedAbsoluteErrorPlot.tsx": {
+      "blob": "7d3e172671271e3464c902b8a156c0c0d4f04056",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/MaePage/MergedMaePage.css": {
+      "blob": "fddcb74fc726e79c597dd6e5c78c03bfc6445900",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/MatrixModelPage/MatrixModelPage.css": {
@@ -7349,11 +8841,11 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/MatrixModelPage/MatrixModelPage.tsx": {
-      "blob": "22f1875c14b4e0e251ddc730572a614f0b5a4f29",
+      "blob": "71ebcbdb624b8a93975d6d06ba87b715cd97f475",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/MsePage/MsePage.tsx": {
-      "blob": "946e4a7b975ba36b0b4650f4c9ef1fb3f82f8d7d",
+      "blob": "26873f66ffd3dafe6cc77dd2ce544a0a19af0b4e",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/MsePage/SquaredErrorPlot.tsx": {
@@ -7365,35 +8857,39 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimalInterceptPage/OptimalInterceptPage.css": {
-      "blob": "31b8b24ffbaac08b949a964ab0f11c3f2a2ad64d",
+      "blob": "9f4d1d464f32ce2eddac05cec8826caa40164622",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimalInterceptPage/OptimalInterceptPage.tsx": {
-      "blob": "fe26f0add75eb720e882c4ff545926bf23167ddf",
+      "blob": "e183d718f1403ae9c555252e82e2966ee034f20a",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimalLinePage/OptimalLinePage.css": {
-      "blob": "2edd83a7b65949179b26367c99fd6d1ead9c51a4",
+      "blob": "cd91cc98d3f2b491916ddff3549ef38c49aa0fb0",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimalLinePage/OptimalLinePage.tsx": {
-      "blob": "80d2f91350d08c14a147c53c4180b84c9461e5e1",
+      "blob": "6d578a95498547df63c2ea92e331c3a716791f11",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimalSlopePage/OptimalSlopePage.css": {
-      "blob": "000e43736aa0aef03a5306fb2a818dbb66683e3b",
+      "blob": "62d907ed664e130df82e7e3c2790e1f456d741b1",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimalSlopePage/OptimalSlopePage.tsx": {
-      "blob": "4788e970d83491d5ff345da2c7c241f28387d7e0",
+      "blob": "e0d0ea030e9a8129803a562149c6ad8d5e20e4ac",
+      "mode": "100644"
+    },
+    "modules/Regression-Loss/pages/OptimalSlopePage/rotation-cursor.svg": {
+      "blob": "791861eb95ea04003e38397dd8af344d517b5655",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimizationIntroPage/OptimizationIntroPage.css": {
-      "blob": "bdf08726b92e7a03e0f03f2d1b4f951a194624ac",
+      "blob": "c77e9135410237b018100ec86a7cf8ecc5d6fed8",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimizationIntroPage/OptimizationIntroPage.tsx": {
-      "blob": "416c28d9e2d526879877beba8367995f8ef0d1ad",
+      "blob": "487ba742919e593fbc5d7d2968779628e599c946",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/OptimizationIntroPage/SaddleDiagram.tsx": {
@@ -7401,19 +8897,19 @@
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/PredictionErrorPage/PredictionErrorPage.css": {
-      "blob": "491b53bea2be6668b69b1bc7fa4e8434b11a538d",
+      "blob": "be683801d50f637b52dcdd84cf7c42bc475a8d65",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/PredictionErrorPage/PredictionErrorPage.tsx": {
-      "blob": "054bf6aed76f76c04627f8bf61e7c41309fae180",
+      "blob": "8a75fe935dff9c7a16d52ebfbef1b48d64846498",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/ResidualCancellationPage/ResidualCancellationPage.css": {
-      "blob": "d981e2b463f46cdcc4d60626b467893518af2493",
+      "blob": "53df2a7454d73375ef9c364df4a492999665a5fc",
       "mode": "100644"
     },
     "modules/Regression-Loss/pages/ResidualCancellationPage/ResidualCancellationPage.tsx": {
-      "blob": "82cd5ee31ab25343ffe6b3216751cc4525e107b0",
+      "blob": "ec1e15c52fd741d96e10c6c6ecc366f612a8eabe",
       "mode": "100644"
     },
     "modules/Regression-Loss/regressionData.ts": {
@@ -8857,7 +10353,7 @@
       "mode": "100644"
     },
     "modules/shared/react/visuals/EChartsChart.tsx": {
-      "blob": "1ab5ca9ea5fcc93cdc94a303aaf131271203f611",
+      "blob": "58e3c0f6d128f4403566ab9aa760a59ba5ddea0c",
       "mode": "100644"
     },
     "modules/shared/react/visuals/FunctionPlot.tsx": {
@@ -9001,7 +10497,7 @@
       "mode": "100644"
     },
     "package.json": {
-      "blob": "c38d1c7748aaa30951b94ef22f9cf9cf8bbf3c7d",
+      "blob": "83976844afca1835a74fec4c534900ae0ca3bd8a",
       "mode": "100644"
     },
     "scripts/course-library-export.py": {
@@ -9009,7 +10505,7 @@
       "mode": "100644"
     },
     "source-lock.json": {
-      "blob": "f3d308e6010b5f9723e1156018431639802e601d",
+      "blob": "51e8b28a339e87bad214429a3f8073fb58ddb017",
       "mode": "100644"
     }
   },

@@ -13,6 +13,18 @@
       "uuid": "ca34afdd-802f-412f-b1bf-7a2aee2ab3c6"
     },
     {
+      "directory": "AI-Practice-Education",
+      "entry": "AIPracticeEducationGuide.tsx",
+      "id": "ai-practice-education",
+      "ppt": {
+        "entry": "AIPracticeEducationPpt.tsx",
+        "path": "/scenedeck/",
+        "player": false
+      },
+      "title": "大模型驱动的实践能力培养体系与平台",
+      "uuid": "b8d86e85-2150-47e3-9e1a-aa7cc7cce15c"
+    },
+    {
       "directory": "Basic-Example",
       "entry": "BasicExampleGuide.tsx",
       "id": "basic-example",
