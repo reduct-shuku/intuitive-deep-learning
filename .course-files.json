@@ -5105,7 +5105,7 @@
       "mode": "100644"
     },
     "creator-skill/SKILL.md": {
-      "blob": "257a086c5f443379ff121ac3e0941075e978ee8d",
+      "blob": "e8fd7708f70d64f1b803aab74133a969a772963a",
       "mode": "100644"
     },
     "creator-skill/assets/idl_basic_template.png": {
@@ -5165,7 +5165,7 @@
       "mode": "100644"
     },
     "creator-skill/references/design/design.md": {
-      "blob": "0a4549b60a8475491ad348fa0c4af0d2808c978e",
+      "blob": "6b7ee774b746ddeb9294f1f355ec0490feb42f37",
       "mode": "100644"
     },
     "creator-skill/references/design/quiz.md": {
@@ -5173,11 +5173,11 @@
       "mode": "100644"
     },
     "creator-skill/references/engineering/implementation.md": {
-      "blob": "071bd0a156a8945306291f44edf6620da6f9dd1d",
+      "blob": "323aeb4e610cc7ddff79599cfe312beb2d795d0d",
       "mode": "100644"
     },
     "creator-skill/references/engineering/module-assets.md": {
-      "blob": "05c1f260c1c35119e4d348246cf0da935cc8d422",
+      "blob": "6b7b01c53686ca25abdbe4bd4524a85637d448f8",
       "mode": "100644"
     },
     "creator-skill/references/engineering/scripts.md": {
@@ -5197,7 +5197,7 @@
       "mode": "100644"
     },
     "creator-skill/references/tools.md": {
-      "blob": "c21901dc5f119f16acc9063daf445367d9c1ba88",
+      "blob": "5596fb33d75973ee4d75f8cae404ed3ea6f4ae38",
       "mode": "100644"
     },
     "creator-skill/references/workflow/common.md": {
@@ -5217,11 +5217,11 @@
       "mode": "100644"
     },
     "creator-skill/scripts/analysis/page_statistics.py": {
-      "blob": "ed756d18832ef0742bc66a44eacd471750a8ce66",
+      "blob": "b050b8c7a8a22565a9ce8a05a02eb852964d6471",
       "mode": "100644"
     },
     "creator-skill/scripts/catalog.json": {
-      "blob": "780d4595444b9e30f8b02c9aeb944d9448a41a80",
+      "blob": "9fa9bad3f7b3ec0e74f03d000c6cedc7f931a290",
       "mode": "100644"
     },
     "creator-skill/scripts/checks/analyze_module_styles.mjs": {
@@ -5237,7 +5237,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/checks/inspect_assets.py": {
-      "blob": "e4baf52493379847c4c022a5d9625de6b4003a64",
+      "blob": "23955e7241814056efc8957fc081266a1032480c",
       "mode": "100644"
     },
     "creator-skill/scripts/checks/validate_module.py": {
@@ -5269,11 +5269,11 @@
       "mode": "100644"
     },
     "creator-skill/scripts/media/capture_slides.py": {
-      "blob": "93d0bdb16d14ba163216998e57d59cfda9f9dd05",
+      "blob": "8c1ae0083ee0926730563590b34b851778e4e82d",
       "mode": "100644"
     },
     "creator-skill/scripts/media/compress-images.py": {
-      "blob": "b2666742cf3116457198204ccdee04e1e584d551",
+      "blob": "545f114f4b2c1dc022adbdbaa035d3a5424f2e22",
       "mode": "100644"
     },
     "creator-skill/scripts/media/extract_pptx.py": {
@@ -5285,11 +5285,15 @@
       "mode": "100644"
     },
     "creator-skill/scripts/media/test_compress_images.py": {
-      "blob": "df7dee444b37ac1f23b153aa1365fbe9c432154c",
+      "blob": "23165119830f8ffed0a88d91f6f05cdad27bc3e2",
+      "mode": "100644"
+    },
+    "creator-skill/scripts/media/test_oss_model_assets.py": {
+      "blob": "952c39aa5400ad89f3100c023ee352fa5b2d8dec",
       "mode": "100644"
     },
     "creator-skill/scripts/media/upload-assets-oss.py": {
-      "blob": "6c0885717180e1a03cee0ddd324b6dff31489bfc",
+      "blob": "81bbfb723f7fece98def8532111e2fe92b19e0a9",
       "mode": "100644"
     },
     "creator-skill/scripts/module/init_module.py": {
@@ -5329,7 +5333,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/tests/test_authoring_tools.py": {
-      "blob": "9c76587efccf851a3e5540260918c44fb7f85fea",
+      "blob": "fd7f742579bb40acfb2de48036b328aec032f3a7",
       "mode": "100644"
     },
     "creator-skill/scripts/tests/test_cli_contracts.py": {
@@ -6296,6 +6300,10 @@
       "blob": "866d5fa15fa1a381bb53d7967078fcaf92c26ec7",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/assets/images/res2net/robin-context.png": {
+      "blob": "f8e7c26dda5d04612e80768ff406e419e3b46138",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/assets/images/skill-ablation/without-format-v2.jpg": {
       "blob": "df2197a4eaf406c665ff86f7a5a383f8c5c74360",
       "mode": "100644"
@@ -6454,6 +6462,10 @@
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/professional-education.png": {
       "blob": "e0c7350b722c2e7af88efad6b487fb818e9e6875",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/res2net-thinking.png": {
+      "blob": "b6de71fca91bc9e336bcc9b3e9140ffebf146496",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/research-education-ecosystem.png": {
@@ -7773,11 +7785,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/outline-map.html": {
-      "blob": "13ee3d7ec3711ca7d5dc27210673dc2b297e6fea",
+      "blob": "286d15053e4bc443a740c369d6cc975c34bfd39f",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/outlines.json": {
-      "blob": "3e35078bf19ee04c938877a5fd149010bac79fd4",
+      "blob": "b3844b2154fba12effd37b58461950740303da82",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CaoChongPage/CaoChongPage.css": {
@@ -8148,8 +8160,12 @@
       "blob": "14b78fb6e0e0abc44ebc6decc7db05945567e221",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/pages/Res2NetThinkingPage/Res2NetThinkingPage.css": {
+      "blob": "c88fed4fbd06bd0ba6bcae88e5c1fc867337679f",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/pages/Res2NetThinkingPage/Res2NetThinkingPage.tsx": {
-      "blob": "7a74ba54e8744e4613865398edaf5114f8c40462",
+      "blob": "1686b8d6bdb31a425f19aa78967e67651a25abf9",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ResearchEducationEcosystemPage/ResearchEducationEcosystemPage.tsx": {
@@ -13357,7 +13373,7 @@
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/ResearchIntelligenceEraPpt.tsx": {
-      "blob": "681fb8627e97838779db47df499e86d0f762a372",
+      "blob": "6ccd10159eb2a6c117312c7bc0b134e2d4d6a73d",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/assets/background-1.jpg": {
@@ -13378,6 +13394,10 @@
     },
     "modules/Research-Intelligence-Era/assets/images/research-cover-art-v1.jpg": {
       "blob": "fa8f08f9566ba9fd37a7b5683f41cdc36491cf3e",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/wishful-benefits-art-v1.png": {
+      "blob": "043d0e4b1553178e7503d0aa06fe13785f4ae9be",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/assets/images/wishful-research-art-v1.jpg": {
@@ -13508,12 +13528,16 @@
       "blob": "ebba546267501035b4f82eb323ae20da53baa19a",
       "mode": "100644"
     },
+    "modules/Research-Intelligence-Era/assets/scenedeck-thumbnails/wishful-benefits.png": {
+      "blob": "e74f03dcd5dddfe593aeb73e6969ff8a5334eaa7",
+      "mode": "100644"
+    },
     "modules/Research-Intelligence-Era/assets/scenedeck-thumbnails/wishful-research.jpg": {
       "blob": "d2a8a91f48c6f62c96d898783b373433aeafbab3",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/outlines.json": {
-      "blob": "c4c3af7bfdcc7d4a5250e308cac84678438a5174",
+      "blob": "2dc5c104644d3b117bf60beb749ee74540d1a00b",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/pages/ConventionalResearchPage/ConventionalResearchPage.css": {
@@ -13538,6 +13562,14 @@
     },
     "modules/Research-Intelligence-Era/pages/ImplementationBarrierPage/ImplementationBarrierPage.tsx": {
       "blob": "6363e7e6af4eb8d36c489ef0c63b4a46e57fa482",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/WishfulBenefitsPage/WishfulBenefitsPage.css": {
+      "blob": "fc91664328ba4a5a83865f860eec7c1060aeb062",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/WishfulBenefitsPage/WishfulBenefitsPage.tsx": {
+      "blob": "405f42d101fca93751f8e1d74dd79fb4a3ecbdca",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/pages/WishfulResearchPage/WishfulResearchPage.css": {
@@ -16549,7 +16581,7 @@
       "mode": "100644"
     },
     "modules/shared/react/assets.ts": {
-      "blob": "1a1d868eb32be1bb25beb7057cf113b2d6835438",
+      "blob": "154f2e74a0a01191bdeb5fbbe3ff69b66251b1a2",
       "mode": "100644"
     },
     "modules/shared/react/controls/Button.tsx": {
@@ -16901,7 +16933,7 @@
       "mode": "100644"
     },
     "source-lock.json": {
-      "blob": "376fb8ee9491e87ffddfab3c6205147e94635495",
+      "blob": "cc03a5bb41a4265c3b16a3d0b64b294f7b8e1f42",
       "mode": "100644"
     }
   },
