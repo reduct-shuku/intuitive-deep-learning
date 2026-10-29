@@ -234,7 +234,7 @@
   ],
   "repository": "reduct-shuku/intuitive-deep-learning",
   "runtime": {
-    "assets": "assets",
+    "assets": "modules/*/assets",
     "creatorSkill": "creator-skill",
     "platformApiRequired": true,
     "shared": "modules/shared"
