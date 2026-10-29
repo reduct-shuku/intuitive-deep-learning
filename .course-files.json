@@ -9001,7 +9001,7 @@
       "mode": "100644"
     },
     "package.json": {
-      "blob": "6e43caebd66fb88d352444de202427a6a059902e",
+      "blob": "c38d1c7748aaa30951b94ef22f9cf9cf8bbf3c7d",
       "mode": "100644"
     },
     "scripts/course-library-export.py": {
@@ -9009,7 +9009,7 @@
       "mode": "100644"
     },
     "source-lock.json": {
-      "blob": "36412acb7dbe34ec1fc9abae3e1e40edaed63e38",
+      "blob": "f3d308e6010b5f9723e1156018431639802e601d",
       "mode": "100644"
     }
   },
