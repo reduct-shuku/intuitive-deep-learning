@@ -5105,7 +5105,7 @@
       "mode": "100644"
     },
     "creator-skill/SKILL.md": {
-      "blob": "e8fd7708f70d64f1b803aab74133a969a772963a",
+      "blob": "b730cb6786e1705416eee98440e15f44e51251c4",
       "mode": "100644"
     },
     "creator-skill/assets/idl_basic_template.png": {
@@ -5197,7 +5197,7 @@
       "mode": "100644"
     },
     "creator-skill/references/tools.md": {
-      "blob": "5596fb33d75973ee4d75f8cae404ed3ea6f4ae38",
+      "blob": "ca4007feb1d37a5092f4c5864b74e909c66c5205",
       "mode": "100644"
     },
     "creator-skill/references/workflow/common.md": {
@@ -5221,7 +5221,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/catalog.json": {
-      "blob": "9fa9bad3f7b3ec0e74f03d000c6cedc7f931a290",
+      "blob": "1616ab834e8d051a5ba85d9b5602e843d69f94a4",
       "mode": "100644"
     },
     "creator-skill/scripts/checks/analyze_module_styles.mjs": {
@@ -5252,6 +5252,14 @@
       "blob": "2e7f0d1f3f783518440d684d46b359bed30c9c95",
       "mode": "100644"
     },
+    "creator-skill/scripts/common/_capture_entry.html": {
+      "blob": "66f002c0f81cbf9bc53c1b4efea4f84fa3d59c1d",
+      "mode": "100644"
+    },
+    "creator-skill/scripts/common/_capture_entry.mjs": {
+      "blob": "4698313f5dabdb194c3d9c8a4e396e8cf84b4ed7",
+      "mode": "100644"
+    },
     "creator-skill/scripts/common/_cli.mjs": {
       "blob": "dddb94159fdd888651a7afc2ca95fdcbb99630d0",
       "mode": "100644"
@@ -5269,7 +5277,7 @@
       "mode": "100644"
     },
     "creator-skill/scripts/media/capture_slides.py": {
-      "blob": "8c1ae0083ee0926730563590b34b851778e4e82d",
+      "blob": "c5c4517edca213a837c87f5072b5cfa21586dec9",
       "mode": "100644"
     },
     "creator-skill/scripts/media/compress-images.py": {
@@ -5336,6 +5344,14 @@
       "blob": "fd7f742579bb40acfb2de48036b328aec032f3a7",
       "mode": "100644"
     },
+    "creator-skill/scripts/tests/test_capture_output.py": {
+      "blob": "ade67def668325613e47c28ec59e25285b208bfa",
+      "mode": "100644"
+    },
+    "creator-skill/scripts/tests/test_capture_runtime.py": {
+      "blob": "c2d588270203c29f5a92762b8ef9804ae3866b86",
+      "mode": "100644"
+    },
     "creator-skill/scripts/tests/test_cli_contracts.py": {
       "blob": "3a0a2b25626f130597848a4476ff85263c2067e1",
       "mode": "100644"
@@ -5393,7 +5409,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/AIPracticeEducationGuide.tsx": {
-      "blob": "9260afa079863073f8f8ff92558b13c205165400",
+      "blob": "6e41638b154ccb7cb20c1b87d84a06955afe0b65",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/AIPracticeEducationPpt.tsx": {
@@ -6144,6 +6160,82 @@
       "blob": "356f90f5293bce40833f579f557e603dff9b7614",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/assets/images/assessment/assessment-collaboration-icon-v5.png": {
+      "blob": "ebecbb89ae297f7e9a730dd3987c2629513689cb",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/assessment/assessment-flow-approved-v5.png": {
+      "blob": "8ecdafbea692ca4bfedda8807968600a782feb4c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/assessment/assessment-flow-cartoon-v2.png": {
+      "blob": "9ce7bbb146268cecbdf8854345262808549fe5e5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/assessment/assessment-flow-formal-v3.png": {
+      "blob": "57e366a9f2a4f0cba2f75ca6ca7b944c7a3939c1",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/assessment/assessment-flow-reference-v4.png": {
+      "blob": "6174f3c0df4ce824af9c7cfd7d015f4474c3403e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/assessment/assessment-resource-icon-v5.png": {
+      "blob": "e83cf50d7723488b45d02965f5b1f6adb74dabe1",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/assessment/assessment-understanding-icon-v5.png": {
+      "blob": "422bb067a499526cfc3d56c8053151179fef96c5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/beginner-concept-v2.png": {
+      "blob": "cb4ee7feffbdb981528c401adc30c56557d33ea9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/beginner-connections-v2.png": {
+      "blob": "c3c73c1cc48711ef40e57e1e93ac1435a07460b3",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/beginner-library-background-v2.png": {
+      "blob": "f68c1d6c56e324ea2a3773e72e7fed2908237a91",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/beginner-system-v2.png": {
+      "blob": "9c05bcfacfc44a2d596115a544f7a4c85c376cc0",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/closing-preview/dual-learning-evaluation.png": {
+      "blob": "7917619f5d8942567832c569b3b0fd11e4ca287b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/closing-preview/education-ecosystem-panorama-v2.png": {
+      "blob": "5152290f64f08bee697358907f4132c780079283",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/closing-preview/education-ecosystem-panorama-v3.png": {
+      "blob": "a0462fc3c16bc25537d1b8fc81a3b0858539fe72",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/closing-preview/education-ecosystem-preview.png": {
+      "blob": "1b7c26bd228881b8b974330e39c326acc618d902",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/closing-preview/educational-agent-practice.png": {
+      "blob": "ee5b2006c919e58c7badea4fad3b6937d71073e0",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/closing-preview/flexible-teaching-modes.png": {
+      "blob": "c0d76708f1166b99b0ab760acb534e3755f86992",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/closing-preview/shuku-editing-preview.png": {
+      "blob": "422f9879d4b9b4cca15115af6382e94c0e929c84",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/closing-preview/teaching-talent-discovery.png": {
+      "blob": "2d325eebebe3901d07c0676e2d6d490bc1b74c71",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/assets/images/creator-equal-ascent-background.jpg": {
       "blob": "28eef8114436177b11a414d842711ba497c22415",
       "mode": "100644"
@@ -6200,6 +6292,10 @@
       "blob": "0ff28913a528f5286beb290f805bc4e6581bccae",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/assets/images/hugging-face-logo.svg": {
+      "blob": "43c5d3c0c97a9150b19d10bc68f4c9042c5034cd",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/assets/images/human-causal-mask-single-question.jpg": {
       "blob": "ff4f0978b8a269eff3c41485110dec2fd3fe759f",
       "mode": "100644"
@@ -6214,6 +6310,62 @@
     },
     "modules/AI-Practice-Education/assets/images/human-collaboration.jpg": {
       "blob": "9fc41c0cb9ac35f6a835d921035da4dd1efa3c23",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2013.png": {
+      "blob": "044c5b1e09e88d4741df7a66d516fdeab898bfbd",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2014.png": {
+      "blob": "83eaf69d73d481a3c85abf6656702ed5237e6c15",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2015.png": {
+      "blob": "0c5bb174d63f38a1ff37773e02aa093a4ac8e688",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2016.png": {
+      "blob": "4b41a2b00d11801a8c5e19e6230c2fe1b6cf75f5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2017.png": {
+      "blob": "b1dadfecb67c5b9a579cd7e9df094b37def9720c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2018.png": {
+      "blob": "515b29f22246de7819760ea157a4d4d39f31bdd0",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2019.png": {
+      "blob": "15dd444f16d9e58afa4291b11a516dc40bc0207b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2020.png": {
+      "blob": "6e9ec0dba875b298f9d0c678b71ab796ccd415a1",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2021.png": {
+      "blob": "aa02433b074d035a3345f0af71fe4010d0df3a05",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2022.png": {
+      "blob": "192d518f219d8686f336dee81ab9af641cc0f654",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2023.png": {
+      "blob": "5ac106fdc4001bda131fd0307c7160bef6bba159",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2024.png": {
+      "blob": "db5cfa1d9b221fe3d63e8bfa85c5311c99b78c20",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2025.png": {
+      "blob": "4c5228f30690e40cc6ad20fe5dc47adb31115c40",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/iclr-timeline/desk-2026.png": {
+      "blob": "6c6fccc1acfdf4a3e002147934dcbd9fa5ca72ac",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/images/knowledge-era-portraits.jpg": {
@@ -6292,6 +6444,86 @@
       "blob": "278fa56a4c9bb9055188a1b35e645f3f939efbab",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/assets/images/paper-relief/calendar-stand.png": {
+      "blob": "6677d186501940a16647883a5694dc3c2e88f3a4",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/desk.png": {
+      "blob": "ccd5f3c09bb307fd8196e702efc681664a8cca15",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-bars.png": {
+      "blob": "7f06501199dc4d8f24cbdbe029d3680580b958fb",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-curves.png": {
+      "blob": "aa79c3958d6fa5fe5e2af585bd510d33cca836c5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-double-a.png": {
+      "blob": "9ba7d40f78e205eb3b87015e2ef4f6c007f66420",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-double-b.png": {
+      "blob": "a7cd1eb64f88ec0cf4dbe20f7fcc0bd95b02893e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-double-table.png": {
+      "blob": "544bb3f803efeadaf0acea65c70eb36ab58e3893",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-geometry.png": {
+      "blob": "6907099e68db1540946430aab8cfae5c780564a2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-heatmap.png": {
+      "blob": "a0fd5c9d370ca76a9648628c14ffe2b844065a40",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-network.png": {
+      "blob": "d46d9eec3194f5450389dc9b136184237fea3bb6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-scatter.png": {
+      "blob": "f5594ad6a4094c72914e8c002b161dbf57c4e372",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-single-a.png": {
+      "blob": "723b62c9dad3566cdf345dacba8a7315fea1e5f1",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-single-b.png": {
+      "blob": "bb5889c7bbf6625791e99ca6775c330abc5c3f0b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top-single-figure.png": {
+      "blob": "aacce999795e4e1728d69e00c5d5630c4db71f59",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/paper-top.png": {
+      "blob": "37d124851680d4fedfab47c1cc4db94e22d906d2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/reader-defeated.png": {
+      "blob": "15248f81b93c5fe442d34908012b748f84915ef8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/reader-focused.png": {
+      "blob": "0167262a4aadadf9f847d13502838761da71206b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/reader-relaxed.png": {
+      "blob": "17e1d4eb749076a587c4e14d0eefa3ab5b298f9c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/room-calm.png": {
+      "blob": "251d1519a970a1c4d21bdecdd7cdab124654748d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/paper-relief/room.png": {
+      "blob": "9b4aae104949de7e3bf6e73c9f01878a9add9022",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/assets/images/personalized-research-papers-v1.png": {
       "blob": "7f4c5fc2ac98a1783737e20efb14f16a80a76579",
       "mode": "100644"
@@ -6300,8 +6532,60 @@
       "blob": "866d5fa15fa1a381bb53d7967078fcaf92c26ec7",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/assets/images/recommendation-app/feed-reference.jpg": {
+      "blob": "1ac4ea5ae9425bbdfc2aadc64d838b34d7615956",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/recommendation-app/reduct-mark-white.svg": {
+      "blob": "243cf6c3864b2920f11763d88bc3a3610a95aed6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/recommendation-web/paper-1.jpg": {
+      "blob": "1a357a3b3790449f5ec87e65e4d6805fc1db3488",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/recommendation-web/paper-2.jpg": {
+      "blob": "a61843dc770f25caf8f44ec7c006c5f4bda212f5",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/recommendation-web/paper-3.jpg": {
+      "blob": "96fb47fe2fdadd40f00f4cb384617e05163acb5c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/recommendation-web/paper-4.jpg": {
+      "blob": "e782cbfd9c34d4ba603ceae027ff631c6f65bdd7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/recommendation-web/paper-5.jpg": {
+      "blob": "a3ed85e831ec46cabb7133dabe15b97a9c66ddb2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/recommendation-web/paper-6.jpg": {
+      "blob": "3b35f7536dfbc4cb23308f3a37cc65fde80676e9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/recommendation-web/sources.json": {
+      "blob": "3de3159ce869b3fe39292c450edf370d403d6c11",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/assets/images/res2net/robin-context.png": {
       "blob": "f8e7c26dda5d04612e80768ff406e419e3b46138",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/shuku-community/cocreate.png": {
+      "blob": "90eb6e9e29da2dd29b5efda6647d54f8975b4804",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/shuku-community/feedback.png": {
+      "blob": "2dec2109e6142c8bdc5d2c37ea0d47db302b67f0",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/shuku-community/publish.png": {
+      "blob": "237e2598f31aba508c001221ea68f5b4de55e193",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/shuku-community/review.png": {
+      "blob": "7e24e75f01a732463478d479bc8b948340b1255a",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/images/skill-ablation/without-format-v2.jpg": {
@@ -6322,6 +6606,86 @@
     },
     "modules/AI-Practice-Education/assets/images/stanford-ai-index-2025-fig-1-1-1.png": {
       "blob": "3ec6e7fe31f6e48813c800eff779e3b0431aa364",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/hall-background.png": {
+      "blob": "f88969f4c371327f5f0e286bdbeece199287f9a9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-center-stylized-v2.png": {
+      "blob": "8451307fd0c72ef11828386737b15c468b4d28dc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-center.png": {
+      "blob": "f3ac7c5a0082633a8390892bc941e91cf24e08f8",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-left-stylized-v2.png": {
+      "blob": "5058cf71c9defb4d121d502b51c8e3895acf3dd2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-left.png": {
+      "blob": "fc0954adda596bc3ff84932c98a37585e2dc1915",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-near-left-stylized-v2.png": {
+      "blob": "482257fce890695a4dd1e6d13f5fa33cde399ca0",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-near-left.png": {
+      "blob": "66a243ea4e4157f6e4f3e4c9636c95385a1aa021",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-near-right-stylized-v2.png": {
+      "blob": "c1e51df52e0019c20ff1efbc3687143167341fa9",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-near-right.png": {
+      "blob": "fd9a0048436a78e3dc44f52bf7391b99a6583b4b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-right-stylized-v2.png": {
+      "blob": "5fdcf0472b275a77ebdf135539afa46b74061b54",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/student-capabilities/student-right.png": {
+      "blob": "8dac31b61993a73ebf89506dbff8a4904d725630",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/talent/research-growth-scenes.png": {
+      "blob": "3c186d817d864bc07581366d694aa06caaddd415",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/talent/students-portrait.png": {
+      "blob": "a2e636e5b220444be8b23942c23bfc40fe48d77d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/talent/teacher-portrait.png": {
+      "blob": "1e7144aa9427d85acd6e4b5d49c6bf0c957c454c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/teaching-mode/group-cocreation-cartoon-v1.png": {
+      "blob": "2c7fdd396c1036456c165893ceff324f9c4d5bf2",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/teaching-mode/interactive-classroom-cartoon-v1.png": {
+      "blob": "ee7bf91ca3f5395f00426ce8ee22b8b3a37719e6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/translation-example/bg.jpg": {
+      "blob": "c07645c47bee002df630d37206a7125bdc824e8e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/translation-example/dark_foliage.png": {
+      "blob": "b846e4fad99c3c0a97a23de2b2259dc79f98a56b",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/translation-example/pillar.png": {
+      "blob": "754b36e087c5441cb6c23fd3027f364265991c9a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/images/translation-example/ufo.png": {
+      "blob": "b1b08ff0f698116f58c92017173024c9ae70dc80",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/images/weighing-elephant.jpg": {
@@ -6348,8 +6712,12 @@
       "blob": "b409d1dc215fae775f0bbf8851d8d96a284a1156",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/assets/research-information/reading-still-life.png": {
+      "blob": "ad2c8a3aa4be26506a29c36203d2841acdb7944e",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/code-practice.png": {
-      "blob": "66a5d83e95d2dadd31bb410a19f16e4b229d73f2",
+      "blob": "b9e0a92dcc1dd9dea0bbeda49f2dfcc54e0cfe89",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/cooperation-invitation.png": {
@@ -6361,55 +6729,71 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-creation-workflow.png": {
-      "blob": "90ad6fed2f739ddfd225dc601f3cc93efbb0b1ae",
+      "blob": "bf66da200cb9a16c8f56b40c9c91f9501c2861bf",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-discovery-learning.png": {
-      "blob": "4ab0a00fa238145d5a938c28568ecf0ba9724bec",
+      "blob": "825c868c6517ae4119036eebecc38a363be69dc5",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-frontend-journey.jpg": {
-      "blob": "bfffe27009860eeddad99540c123348ef8e26f4d",
+      "blob": "da29229fb615db66970da757ffcf4f548953e5dc",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-human-collaboration.jpg": {
-      "blob": "aa9bbe5109d5a562358a089c637be6ead984ca8f",
+      "blob": "7adfe97c3588af302959cf63425df504c06a30ce",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-multi-format.jpg": {
-      "blob": "ba7083cc37b9c89bf07ee676a843efb6bb16c50b",
+      "blob": "aa1ac68ddafa1aecd22bcc503f0ec59a6119b2e6",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-optional-interaction.jpg": {
-      "blob": "fa59b1e929da00e9739223f77aebf6dcf5401ca4",
+      "blob": "6e4899d03432af03de5e29f13ef8347fb913a2fe",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-presentation-comparison.jpg": {
-      "blob": "74204e5dee3bdee15b68a9899873219fcffae80a",
+      "blob": "11155e2d63ec20a6adf1fe4e01f0f27c538965e1",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-progressive-disclosure.png": {
-      "blob": "a181139c023c2c513013e33d98b557e59c598479",
+      "blob": "11a21e77782b3fa31a4faab8001ea3a5edca5227",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-skill-constraints.jpg": {
-      "blob": "b0a22d1f936666ab0363ad7281b628150d938976",
+      "blob": "3ad4dd7766d58367adebc6476f5151049ca23d3e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-skill-overview.jpg": {
+      "blob": "c9add3ca9a53b5e44718c64951fd8d5bf07b8cbc",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-skill-overview.png": {
-      "blob": "73978657ed22eaeb4ce84ceb5360aae18f9d424a",
+      "blob": "a415872e8dbd4b01c07450b4b45c462946269a74",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/creator-copy-ui-kit.png": {
-      "blob": "f3185b56d6884443d423aba28c06c886bb26bec4",
+      "blob": "f41603e39218b0671345c2adb22b71cface0cd1a",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/cross-domain-foundation.jpg": {
-      "blob": "8bf63575fa8c383dbe638eeb9c60adf28033e59f",
+      "blob": "f6a9dac8998a0415c10d403b96e73a9502451a10",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/dual-learning-evaluation.png": {
+      "blob": "b7bad41df3dfa722b25bbf4a7239c96720c6559f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/education-ecosystem-preview.png": {
+      "blob": "6ccbc40fa94435594dd514205b3040472c4e203d",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/education-paths.png": {
-      "blob": "b34b919317a8f3bb4691dd00cb2d9e3b4b368c22",
+      "blob": "b5819f22bc2cc92b2ce15349450b369e37f0ac3c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/educational-agent-practice.png": {
+      "blob": "562d5dc7e19a44efae9662504e7c05079fcebee9",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/experiment-analysis.png": {
@@ -6420,12 +6804,16 @@
       "blob": "4a6b4045a79e2a91e08b6f7ec9dba484416bf972",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/flexible-teaching-modes.png": {
+      "blob": "bcdfb3f05a8524c6771e64202ff80b911745a3eb",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/foundation-frontier.jpg": {
       "blob": "15349ffb70862eb97500a6385c156dbb5442a680",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/intuitive-learning.png": {
-      "blob": "dff79f33b9724c85b72fcd79af4cc7d3bc26993a",
+      "blob": "4ee12096e241cd50311a17c08757c58f692221a0",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/knowledge-structure.png": {
@@ -6437,35 +6825,39 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/learning-goals.jpg": {
-      "blob": "4248079952a06aaf6109ca612fbbb29933223807",
+      "blob": "601fded77ad0dac0408ab56900d8e73bfd2cb066",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/opening.jpg": {
-      "blob": "3000aa75412b7e720b2246327147300d4d60d699",
+      "blob": "40bc9b4de3b15b97e94717d20108a576ab29ccc3",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/paper-quality.png": {
-      "blob": "78f7759209dd64cac0a37886689e548b801f9f20",
+      "blob": "9ffd2353ea284c5c1039a84d65b401516348c714",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/personalized-research-supply.jpg": {
-      "blob": "3d0dce61210b592f2540e1741a370694f8d47ebf",
+      "blob": "f4d8eb528953de8b3950f8ba4493b516740d197e",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/platform-positioning.jpg": {
-      "blob": "6c34a24421511e7fb5d4d65adbfdc3c146091dee",
+      "blob": "8011e0334588cda4d71158591bf256b1921d6971",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/popular-science.jpg": {
-      "blob": "832a13e9a2c980f4e198b37e869e4bd08a53fa94",
+      "blob": "999477d47d1d635314fc41a07eab7052ce713e9f",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/professional-education.png": {
-      "blob": "e0c7350b722c2e7af88efad6b487fb818e9e6875",
+      "blob": "e12d9cc5e5fd0ec0d243734ed75eee77a1267006",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/recommended-assessment.png": {
+      "blob": "ea93164f8650fe748040f7f5fabd908904bc1768",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/res2net-thinking.png": {
-      "blob": "b6de71fca91bc9e336bcc9b3e9140ffebf146496",
+      "blob": "104125ab54500734ad6e4f8ad3ba3a8c0ee4145b",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/research-education-ecosystem.png": {
@@ -6477,11 +6869,15 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/research-information.jpg": {
-      "blob": "98db9271633157fffa6b9336e3ff2251d67dee8e",
+      "blob": "b6cc7207e3e75d026b9695cad53f89b3879f3b5f",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/research-recommendation-app.png": {
+      "blob": "effd6b637e3d2555ebe7470c435c102f0f4ea15f",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/research-service.png": {
-      "blob": "6de9ca4300788fd720952e3632b1dd6006970789",
+      "blob": "db61186e837faddfeff17e403e226ac755a7a6af",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/showcase-cao-chong.jpg": {
@@ -6489,7 +6885,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/showcase-gomoku.jpg": {
-      "blob": "d1c1c7bb25ffd934789418b0d5b0d4d98a8d3345",
+      "blob": "99db989710d2b3ac192059b90492aa1b67c671f4",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/showcase-regression-loss.png": {
@@ -6497,15 +6893,27 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/showcase-window-scan.png": {
-      "blob": "e5399f456161bae4e32d4fdb692802a1f4ced9bc",
+      "blob": "ede32cadf02873955c74567bf12e702e3bf4540c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/shuku-editing-preview.png": {
+      "blob": "5369f2fe2c9c72d8895e0eed9e7cc1e5c626cf0b",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/shuku-growth.jpg": {
       "blob": "feed7324fb2714292d2a87f69a7b7aa8c53d697e",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/student-capabilities.png": {
+      "blob": "7948d2291c33eddf54231c3f4eecb293abadef75",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/assets/scenedeck-thumbnails/student-outcomes.png": {
       "blob": "6f53a4fb8019885291de9669d99d5e7e46eeb64d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/assets/scenedeck-thumbnails/teaching-talent-discovery.png": {
+      "blob": "6c622417d95520fbe8334429d8f20f979b2e7c34",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/assets/showcase-gomoku-bg.mp4": {
@@ -6833,7 +7241,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/EvaluationSkillDemo.tsx": {
-      "blob": "db2f8f9d38c797e1e8078e8257e4a11e496363aa",
+      "blob": "7c84afce23664bf7838f8ee59fdd526227b600c8",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/EvolutionSkillDemo.css": {
@@ -6841,7 +7249,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/EvolutionSkillDemo.tsx": {
-      "blob": "89ef92c8e4970c8333d4be4b15697489a2754e3d",
+      "blob": "835e585f297aea603c620f1a2b0eb36a6ee073c5",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/FoldingPaperScene.tsx": {
@@ -6881,11 +7289,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/ShowcaseGomokuPage.css": {
-      "blob": "0a33fca736ca70529841208d2e3200ad1401a557",
+      "blob": "977b1ecd96157382227e0f3530dae28e11baf674",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/ShowcaseGomokuPage.tsx": {
-      "blob": "1eb64062271c68de8460a182faad69452209efe8",
+      "blob": "c28b357d1e942913039bdc3d847b62e4f70c8add",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/SkillAblationConcept.css": {
@@ -6896,16 +7304,24 @@
       "blob": "5a8bb7a2fbe7ea9c3fbf3cc823d2f079dfc6d191",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/components/StaticDesignPreview.css": {
+      "blob": "e3d46f0a654927255b646e561669c16ff31b9bbf",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/components/StaticDesignPreview.tsx": {
+      "blob": "a3c32041b11f6aeeafb2134fe8baaa630c543d63",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/components/WeightSharingAblation.css": {
       "blob": "ff59e3a31d0384e6fad9d5ab730fa38c959f0d83",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/WeightSharingAblation.tsx": {
-      "blob": "5c06cc12de133472170b828797e755c01a49b339",
+      "blob": "365fb7c67d359f59b711e26b6d2370b4b1ef169d",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/WorkflowPreview.tsx": {
-      "blob": "d1b24f059280235844153153fd06edfa8c47047c",
+      "blob": "743cddcf789e3eb21964076b4e885857fd61cc99",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/WormholeLab.css": {
@@ -6945,7 +7361,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/assembly/UIKitCatalog.tsx": {
-      "blob": "7105019344a55d340607078283f2ab6ee5b495e4",
+      "blob": "3c0e64b227e8d270587681c0eab902e0572a2a3e",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/assembly/assemblyTimeline.ts": {
@@ -6985,7 +7401,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/EvaluationSkillDemo.tsx": {
-      "blob": "970a7a3b24eb9e1f46693507ea14d962ec8005aa",
+      "blob": "f4524b5e896454c19eb6a7e3e4eaec077174aeb2",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/EvolutionSkillDemo.css": {
@@ -6993,7 +7409,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/EvolutionSkillDemo.tsx": {
-      "blob": "75488d42dec672b9ead30d366c200d76ea1a8ea4",
+      "blob": "481e5b180071d18287fa6689cb70e8d8cda133f6",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/FoldingPaperScene.tsx": {
@@ -7037,11 +7453,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/WeightSharingAblation.tsx": {
-      "blob": "54890491d009740ac1b4999918bc5fb0835a1d70",
+      "blob": "c6bc34f5649cf1bcd9381cd2a4ec93d25a67ef82",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/WorkflowPreview.tsx": {
-      "blob": "7b0d21bca65f4b84fd679a6fcda3431b29c77a71",
+      "blob": "f800ebc07887eec8711ac05fec0dae6231f92efd",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/WormholeLab.css": {
@@ -7077,7 +7493,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/assembly/UIKitCatalog.tsx": {
-      "blob": "076761d4b752796f2e6a2476ce1bacd38ea6c03d",
+      "blob": "0027d0283518f77d685900436ab3e8167fb29175",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/assembly/assemblyTimeline.ts": {
@@ -7337,11 +7753,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/workflow/simulation.ts": {
-      "blob": "a05455ef4dcd8e0acd9057b505bb6a793037869c",
+      "blob": "3603aa4fd15ecfbeeda0918ff16593eede81bf6d",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/workflowDemo.ts": {
-      "blob": "578461e3c24c8bc23c15463908d6a2b22e2f6bcc",
+      "blob": "01f33e57fe531ed78fe783fe13470e6dc5f46312",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/components/wormholeGeometry.ts": {
@@ -7357,7 +7773,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/outlines.json": {
-      "blob": "3972ba2725fa917e52db1fd43e01be3f478e414d",
+      "blob": "d226918b45fc099ab083f4b3eb68bff43e4bd2b8",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/CreationWorkflowPage.css": {
@@ -7365,7 +7781,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/CreationWorkflowPage.tsx": {
-      "blob": "12d25ba867b28e985bb75bb2cd9304f7f66f6ba1",
+      "blob": "8d2a5b4b0d04891b7ce10b27af18c2fa921fb19f",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/DiscoveryLearningPage.css": {
@@ -7389,7 +7805,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/FrontendJourneyPage.tsx": {
-      "blob": "06d21728dea6cb87bfe0c205f6af83cbd93929d9",
+      "blob": "8cc3746126b46aa5412c474492c95c2c9d93c2ab",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/HumanCollaborationPage.css": {
@@ -7397,7 +7813,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/HumanCollaborationPage.tsx": {
-      "blob": "5a1487108e9c414783351edc6e3ad6d63b129f34",
+      "blob": "ebf05d2ff5896fea44d8a68a522e6c0ffd28378e",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/IntuitiveLearningPage.css": {
@@ -7421,11 +7837,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/MultiFormatPage.css": {
-      "blob": "df336c5e8ede8d40929182c7b34cdcccd7a070d6",
+      "blob": "f243fd1d85628bee6361c2bb832ae1ee32425e68",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/MultiFormatPage.tsx": {
-      "blob": "1685487d67e31c97f06fd2acee33acd91fbaed74",
+      "blob": "90e0d5d2f7caf764979ff7be685d20180e6a2470",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/OptionalInteractionPage.css": {
@@ -7433,7 +7849,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/OptionalInteractionPage.tsx": {
-      "blob": "350f02e19e97a47c04d892a0d26aa5758a0be8d5",
+      "blob": "d3d01cb2296ddc5a6d920f1b634d280e63004269",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/PopularSciencePage.css": {
@@ -7445,11 +7861,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/PresentationComparisonPage.css": {
-      "blob": "9dd836e0e264b2753fa7dcb1627b14dfa537ea6f",
+      "blob": "b957ed0c4b869d8d2658cbacd9fdb259cf99f2f0",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/PresentationComparisonPage.tsx": {
-      "blob": "c576dfd4dfe3af65ec69203df511255441e79e8a",
+      "blob": "cb54f52301219a58ba3043a80191a84af94ffa88",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/ProfessionalEducationPage.css": {
@@ -7477,11 +7893,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/SkillConstraintsPage.css": {
-      "blob": "4d744fabf3d90ae88ca175d4de9633563337aa6a",
+      "blob": "598f069308572e99ed6a14cc9db7c22d787a940d",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/SkillConstraintsPage.tsx": {
-      "blob": "9895f77e5a0f9c889a79a2567a37310bef5da674",
+      "blob": "c22a960c0bd150f26e0c84ad2dd13939796fefdd",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/SkillOverviewPage.css": {
@@ -7489,7 +7905,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/SkillOverviewPage.tsx": {
-      "blob": "1b96cfe4424d7cf6c374791aeb4617be7b7f2fa6",
+      "blob": "4cb736fccf6d4b61fcc3150064249c41408799a1",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/TitlePage.css": {
@@ -7497,7 +7913,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/TitlePage.tsx": {
-      "blob": "71bdbb1133d0f4a680ff6315725a5d10f427d963",
+      "blob": "6ac3a570d75f49279bbe7ec11c1f4bf4e3c08b5b",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/creator-guide-copy/pages/UIKitPage.css": {
@@ -7765,11 +8181,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/workflow/simulation.ts": {
-      "blob": "a05455ef4dcd8e0acd9057b505bb6a793037869c",
+      "blob": "3603aa4fd15ecfbeeda0918ff16593eede81bf6d",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/workflowDemo.ts": {
-      "blob": "578461e3c24c8bc23c15463908d6a2b22e2f6bcc",
+      "blob": "01f33e57fe531ed78fe783fe13470e6dc5f46312",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/components/wormholeGeometry.ts": {
@@ -7781,7 +8197,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/course.tsx": {
-      "blob": "1992b12c4c7469d31234d0cd960e91a37aac0b1a",
+      "blob": "c9f08d397b6b92e887d97ac98f03c1597602690c",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/outline-map.html": {
@@ -7789,7 +8205,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/outlines.json": {
-      "blob": "b3844b2154fba12effd37b58461950740303da82",
+      "blob": "2ea17c7fd321a347030e94b12042b212a4bad346",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CaoChongPage/CaoChongPage.css": {
@@ -7804,20 +8220,44 @@
       "blob": "57e56ea915fbb35fcbb63651a216ff7b8739d6ae",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/pages/CodePracticePage/CodeEditor.tsx": {
+      "blob": "0b0652356df5f8bbca75d2af694b949857f1b3b4",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CodePracticePage/CodePracticePage.css": {
+      "blob": "c3d7ac1fe85f48aa4e65d7b7ccf36e2d83abb83f",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/pages/CodePracticePage/CodePracticePage.tsx": {
-      "blob": "18c15f4e8907254420f145e8801c5091c5467d1e",
+      "blob": "9769138c9050c6a75600e2993e865aef27ea3814",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CodePracticePage/python.worker.ts": {
+      "blob": "505101fd2226c0d7ad1b0b27bb1788ebe388d459",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CodePracticePage/pythonPrelude.py": {
+      "blob": "6f154a417ec297304c44ffa9d09f6299b262e7bc",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CodePracticePage/pythonRuntime.test.mts": {
+      "blob": "3a3db38f8ea5f2da75b9c0f1747a3600f4a3398d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/CodePracticePage/pythonRuntime.ts": {
+      "blob": "9f393a280a1e0eb57ee805b6ff71e97417fa6faa",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CompleteLearningLoopPage/CompleteLearningLoopPage.tsx": {
-      "blob": "bae1a759ffa969d2acd4b36af0fed3d5a7ee0505",
+      "blob": "c8f64b07a19482046cbd363367a6c4264a6ab88a",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ConvolutionDefinitionPage/ConvolutionDefinitionPage.css": {
-      "blob": "d351a542ffc915b1eee784ad71b034107dc6f043",
+      "blob": "e4f91a9e04008b62b736315dcc9137aa02086554",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ConvolutionDefinitionPage/ConvolutionDefinitionPage.tsx": {
-      "blob": "fd0c6e5cd7cdf87cafabe85cf3586ea65d7d5ec8",
+      "blob": "33eb67e44d265e1923cea59bd2677aa4022be5bf",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ConvolutionObservationPage/ConvolutionObservationPage.css": {
@@ -7825,7 +8265,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ConvolutionObservationPage/ConvolutionObservationPage.tsx": {
-      "blob": "d783f7ba2e13b43e8964c99cd7492579c654ee7b",
+      "blob": "b9ee48cde33f7feffe3fbe8705e965bb39e63e6b",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ConvolutionObservationPage/convolutionModel.ts": {
@@ -7837,7 +8277,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ConvolutionWalkthroughPage/ConvolutionWalkthroughPage.tsx": {
-      "blob": "6d3f0e7467e715610ea6be4b6b3334b5bd2c5f36",
+      "blob": "42ffddf2658ef02894246ec31b6bb2bc38acb4c5",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ConvolutionWalkthroughPage/ZoomScene.tsx": {
@@ -7849,11 +8289,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CooperationInvitationPage/CooperationInvitationPage.tsx": {
-      "blob": "549e86c7dfe03d79af4ad45d1e8d00556ae84105",
+      "blob": "216f99c3469fe772868d0b7e4023b31fcd189ee0",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CourseOrganizationPage/CourseOrganizationPage.tsx": {
-      "blob": "00de0afd3371d033bac6f8ec414625ffd7f471d4",
+      "blob": "35aa980d931eced02ab6303aa6da2b8a31994e06",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CreationWorkflowPage.css": {
@@ -7861,15 +8301,15 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CreationWorkflowPage.tsx": {
-      "blob": "a2d96f95b5afcd7af8ecb4d5757232b0a0645955",
+      "blob": "07f7bd50fc8aa7cf8c7f06f7d4bf1dbe1a62e3b1",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CrossDomainFoundationPage/CrossDomainFoundationPage.css": {
-      "blob": "be44814bb7795dd2dd5cf11f672e367a7f1f936e",
+      "blob": "133a0755dbe7ffaf7e1e35b777eb5703f10a7221",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/CrossDomainFoundationPage/CrossDomainFoundationPage.tsx": {
-      "blob": "c80783800e0690b233c8fb29cf7a2535d3dcf59a",
+      "blob": "0aa800eaa277ec39a45158e17cce089eae1c84db",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/DiscoveryLearningPage.css": {
@@ -7878,6 +8318,22 @@
     },
     "modules/AI-Practice-Education/pages/DiscoveryLearningPage.tsx": {
       "blob": "3943eb92f8855182f4cc4ba60cbb4aa00e93db5a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/DualLearningEvaluationPage/DualLearningEvaluationPage.css": {
+      "blob": "575bcb883fdd6de69def4d62057b90795eb9f75d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/DualLearningEvaluationPage/DualLearningEvaluationPage.tsx": {
+      "blob": "7f3d82f286a9e1ac11505eb5aaaff0b54775de3d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/EducationEcosystemPreviewPage/EducationEcosystemPreviewPage.css": {
+      "blob": "7b758bac3a48f8ab1fdc5fac0ea17bc75bca6daf",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/EducationEcosystemPreviewPage/EducationEcosystemPreviewPage.tsx": {
+      "blob": "9756159ecf498a456fa521f8ba317435aba773f4",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/EducationPathsPage.css": {
@@ -7893,11 +8349,15 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/EducationPathsPage/EducationPathsPage.tsx": {
-      "blob": "c65f990939b28a826e1d2471dae617034d8f52a9",
+      "blob": "47a0c3070d33c935617b309e46f5cf7af4989585",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/EducationPathsPage/KnowledgeIcebergScene.tsx": {
       "blob": "e0fe5db0efe1d993d114f493c461dbb1216c6a39",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/EducationalAgentPracticePage/EducationalAgentPracticePage.tsx": {
+      "blob": "e15e370029c71afa10cc2316d2e558c3d49d2fca",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/EstimateWeightPage/EstimateWeightPage.css": {
@@ -7909,11 +8369,19 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ExperimentAnalysisPage/ExperimentAnalysisPage.tsx": {
-      "blob": "aee79065f7d5a5c9d3008007d0fe626572940048",
+      "blob": "85e30aee07f5d60144815b34da86abe209a5f028",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/FeedbackLoopPage/FeedbackLoopPage.tsx": {
-      "blob": "c846f1b488b90556c70d7f1139603e06f96fa336",
+      "blob": "f9514778ee81a2bac18fcc71b6c1f9859c4f1c15",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/FlexibleTeachingModesPage/FlexibleTeachingModesPage.css": {
+      "blob": "90a5f688c1ba907420636a02bc7557edeea97319",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/FlexibleTeachingModesPage/FlexibleTeachingModesPage.tsx": {
+      "blob": "48c5802e283272f02703b38d26559701d17d18f9",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/FoundationFrontierPage/FoundationFrontierPage.css": {
@@ -7929,11 +8397,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/FrontendJourneyPage.tsx": {
-      "blob": "e18ba3c1077311015811ecdd7f1db87dd109d841",
+      "blob": "bc0e28b91fa9a6f36c685d3e12aaa1a13a7ee0f7",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/GomokuLearningPage/GomokuLearningPage.tsx": {
-      "blob": "a2d0fb27080a7f29f89784afae6ad003cd83e7f2",
+      "blob": "d74006e1c687252f4147c8f6c908f57db298f826",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/GomokuPlayPage/GomokuPlayPage.css": {
@@ -7949,7 +8417,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/HumanCollaborationPage.tsx": {
-      "blob": "ee1ffbfc6bfba26e0b37d553c8a8d502005a8095",
+      "blob": "b51a53ca94904c4fe7d848df6de7fa4632b68673",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/IntuitiveLearningPage.css": {
@@ -7965,7 +8433,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/IntuitiveLearningPage/IntuitiveLearningPage.tsx": {
-      "blob": "acf248159f30de89db9717aec2afcb384060adb2",
+      "blob": "32501c98c00f3c51da0d56c3193a227732be9beb",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/IntuitiveLearningPage/WormholeLab.css": {
@@ -8005,11 +8473,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/KnowledgeStructurePage/KnowledgeStructurePage.tsx": {
-      "blob": "ac636a9b0f8ef2b3f6448ee28db5ee4edc7cbac5",
+      "blob": "cceec1fecca14bb47174d10851a36fab96d372ca",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/LearnerEvaluationPage/LearnerEvaluationPage.tsx": {
-      "blob": "27cb4addd0c9f58d232e936affd7ac947af3317c",
+      "blob": "2de4ee9eb68113f3ad4d5cf7bae6b2fc3833070b",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/LearningGoalPage.css": {
@@ -8033,11 +8501,11 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/MultiFormatPage.tsx": {
-      "blob": "fb343a9fa35d366bdcc8cfb0989181a2b786c8f7",
+      "blob": "8e3e845fd4440cc7a22e6839c30b4529f1954cc9",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/MultimodalGenerationPage/MultimodalGenerationPage.tsx": {
-      "blob": "73c03a06408539463431df518de3ae18035ff953",
+      "blob": "a77d3e30f7d3fa9d699066976867ea653a3ba46e",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/OpeningPage/OpeningPage.css": {
@@ -8056,24 +8524,48 @@
       "blob": "560be97e5c5b3b347e8b1990be1149d1da432cc7",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/pages/OptionalInteractionPage/OptionalInteractionPage.css": {
+      "blob": "63e666c26a5caac2cace4d5c729f1dfac1cf831a",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/OptionalInteractionPage/OptionalInteractionPage.tsx": {
+      "blob": "588e666f4d1aa7520a8b89f1b9a96bb3e904dc04",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/OptionalInteractionPage/SquareTranslationExperiment.tsx": {
+      "blob": "54ab85384964629b901854f33fb19e145daba42c",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/OptionalInteractionPage/UfoTranslationScene.tsx": {
+      "blob": "e53d627d4f44d4b6c3455ee1ea16c19fbe29f395",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/OptionalInteractionPage/laplacianResponse.ts": {
+      "blob": "47f3b279c068b82371d373e736ca24457ec01590",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/pages/PaperQualityPage/PaperQualityPage.css": {
-      "blob": "83d17d46aff6448e3f5fb997cd441a5467e015e9",
+      "blob": "d9f132ff42bfb761a560f2cdc0269cbd2abed00c",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PaperQualityPage/PaperQualityPage.tsx": {
-      "blob": "5dec830534597fe81778bf384bc9dcd1af7b991b",
+      "blob": "d01e3bf3c5d3d473db5694e789a4107dfd9c08bd",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PersonalizedResearchSupplyPage/PersonalizedResearchSupplyPage.css": {
-      "blob": "4ce03ad12d12cbe054a75bd4e7cfd747e3022bbe",
+      "blob": "adbc425988a846399227bab450d7fd065f25c46b",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PersonalizedResearchSupplyPage/PersonalizedResearchSupplyPage.tsx": {
-      "blob": "7b66bf99928e8bc5e8e3f7ce2361b4fcb24523f4",
+      "blob": "1a743a7a22ec196f85d6b3b87d7523ec442558bb",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PersonalizedResearchSupplyPage/SupplyIcons.tsx": {
       "blob": "3534d70939e2080f777c33e44cb607f992f42e42",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PersonalizedResearchSupplyPage/paperFlow.ts": {
+      "blob": "734a5701cd1292c4aa5107b0df9ac4bf49673806",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PlatformCapabilitiesPage/PlatformCapabilitiesPage.css": {
@@ -8081,23 +8573,27 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PlatformCapabilitiesPage/PlatformCapabilitiesPage.tsx": {
-      "blob": "42611b7ddaf41cdc6b21afe9cdf33f15539051b6",
+      "blob": "3673236dbc7328a0af5c5281f937ef3c22fdcfe2",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PlatformEcosystemPage/PlatformEcosystemPage.tsx": {
-      "blob": "0c8d172bffd7286d6b152cbb22374dda2b30b141",
+      "blob": "312f79c5d7c64750563c74cda92ee16cdc852378",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/PlatformPositioningPage/PlatformCapabilityIcons.tsx": {
+      "blob": "d36e8ee204845a5f8d58130da6a6ce8c1f80a61f",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PlatformPositioningPage/PlatformPositioningPage.css": {
-      "blob": "a24e3fbd827c8335baddf72850708bfd634bede8",
+      "blob": "294cd9e0052cc52a1ca3e0e5a24d5c833c4bd813",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PlatformPositioningPage/PlatformPositioningPage.tsx": {
-      "blob": "03ceb09f31885d70b976b43efe3d87956db5711f",
+      "blob": "714d1924d87a01efc3e7b558b17a0790cd112d75",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PlatformScalePage/PlatformScalePage.tsx": {
-      "blob": "eaa16bb26322ec3a208457431a2739b51679e16a",
+      "blob": "5e73429de94e97e5a02f7cb18ed908824638fe73",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PopularSciencePage.css": {
@@ -8125,7 +8621,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PopularSciencePage/PopularSciencePage.tsx": {
-      "blob": "5b695176625d8bccbc0de8aab60a3cd0abe95c0b",
+      "blob": "8136ccff162fe0709f93026bd368122d0e2d486b",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PresentationComparisonPage.css": {
@@ -8133,7 +8629,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/PresentationComparisonPage.tsx": {
-      "blob": "f2994568e39715bed9bb5b5e1b153c26ae7e2242",
+      "blob": "c7b668ccdcaab0cfc12418a3bf6ca65299206aaa",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ProfessionalEducationPage.css": {
@@ -8149,7 +8645,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ProfessionalEducationPage/ProfessionalEducationPage.tsx": {
-      "blob": "c17e47b9ee2924708ca95d948ccf16fe44b58c2c",
+      "blob": "b6f49c3a9910330db78e1f7f1045123ba00e6119",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ProgressiveDisclosurePage.css": {
@@ -8160,36 +8656,128 @@
       "blob": "14b78fb6e0e0abc44ebc6decc7db05945567e221",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/pages/RecommendedAssessmentPage/RecommendedAssessmentPage.css": {
+      "blob": "14ba7a9d1b57b7b2e6579525ddae6236fbc9bf02",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/RecommendedAssessmentPage/RecommendedAssessmentPage.tsx": {
+      "blob": "53451ae4aa0d31c2b3b4a904eadf497d630130d0",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/Res2NetThinkingPage/NetworkStage.tsx": {
+      "blob": "6a25f0ff85f1194d9a157feed761eecee92de78d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/Res2NetThinkingPage/NetworkStudio.css": {
+      "blob": "2868863d0a3826f874b354b6c20631ee4918ac59",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/Res2NetThinkingPage/Res2NetLab.tsx": {
+      "blob": "3b592ba0c0d573b41a8cf189df6aad0c00ae66f8",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/pages/Res2NetThinkingPage/Res2NetThinkingPage.css": {
       "blob": "c88fed4fbd06bd0ba6bcae88e5c1fc867337679f",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/Res2NetThinkingPage/Res2NetThinkingPage.tsx": {
-      "blob": "1686b8d6bdb31a425f19aa78967e67651a25abf9",
+      "blob": "9de926214ed62e1c321c7099d268372d18353daa",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/Res2NetThinkingPage/res2netGraph.test.mts": {
+      "blob": "fd819d76c45fc707ccdf72a1d82fb3504a23d3a3",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/Res2NetThinkingPage/res2netGraph.ts": {
+      "blob": "49ff1aa5b1d081207e468ea4330e380b98236ddd",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ResearchEducationEcosystemPage/ResearchEducationEcosystemPage.tsx": {
-      "blob": "c22af593637bd0da556bb2aab5a5e2a2a0606372",
+      "blob": "74073de13e6782432e3d7cfe559adf7cfff83ed1",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ResearchExtensionPage/ResearchExtensionPage.tsx": {
-      "blob": "31fd04f2fa576b3341b8e441925a6b7d7cfdb8c5",
+      "blob": "df35bcc7d6ea4aa2f5f411b1e4e227dec5379cc1",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchInformationPage/PaperReliefScene.tsx": {
+      "blob": "a4d594db48b838f6048a0ae96efee17470c608b3",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ResearchInformationPage/ResearchInformationPage.css": {
-      "blob": "e9cfceacaf1549bf12e3f0de60a05e5930b33f16",
+      "blob": "876eb1646711162083df644bf0c01b1891f11db4",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ResearchInformationPage/ResearchInformationPage.tsx": {
-      "blob": "415c76adffecc962d14eb600c994f95a8d756199",
+      "blob": "c086058e4c188b090188afe9059ad116ff766392",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchInformationPage/iclrSubmissions.ts": {
+      "blob": "ea490e5af031270727cb09dd9e564c72a3714342",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchInformationPage/neuripsSubmissions.json": {
+      "blob": "17a60949535e931a884548add5db27deff986b58",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchInformationPage/paperPerspective.ts": {
+      "blob": "d216746dcc37773ad3f171ebd20b8579d6baeef6",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchInformationPage/paperStacks.test.mts": {
+      "blob": "3258e8ad22b8e96773a50a85a4fcde5b0e6d3d43",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchInformationPage/paperStacks.ts": {
+      "blob": "940cb00c6577109a7df47e208f7ac03bdaf5a68d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchRecommendationAppPage/ResearchRecommendationAppPage.css": {
+      "blob": "1f446f6f228abff6ded4de0abc814007efd63522",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchRecommendationAppPage/ResearchRecommendationAppPage.tsx": {
+      "blob": "69783deb1e2ed035a258d78cf964224845dd8d43",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchRecommendationAppPage/ResearchWebMonitor.css": {
+      "blob": "f33bde62769c39af0136e1799a381f3cc7661c10",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchRecommendationAppPage/ResearchWebMonitor.tsx": {
+      "blob": "ed0e2f4f06da8e98fa61dfa1d3e41ec37e0b4984",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchRecommendationAppPage/paperFeedData.ts": {
+      "blob": "c5fce6ca987abc261da0ee94c6cbd4aeff6c6deb",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchRecommendationAppPage/webPapers.json": {
+      "blob": "c7dcfed37a20e2a31b4d1b680eaf74aa16622493",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ResearchServicePage/ResearchServicePage.css": {
-      "blob": "c1aa3466d7ed19c1514733db7b60b3691084a838",
+      "blob": "ef5dfad912045a5ab8c7cc2f1599f7f15bd70bb0",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ResearchServicePage/ResearchServicePage.tsx": {
-      "blob": "b2cac6bf6b5ad9ea77e8b6d7570c2cd917856437",
+      "blob": "4acb9248b4bf21a9aaf951cbd500d6d5410289f7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ResearchServicePage/predictionSnapshots.json": {
+      "blob": "9ad3e3095cc7a39c9ee0ca5300bee9090fee064d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ShukuCommunityEvolutionPage/ShukuCommunityEvolutionPage.css": {
+      "blob": "1bc411303f77e7212735f96f00908b2ddaef875e",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ShukuCommunityEvolutionPage/ShukuCommunityEvolutionPage.tsx": {
+      "blob": "c21d87b9d70eaf6d033e886c0ab1b358ea7dad5d",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/ShukuEditingPreviewPage/ShukuEditingPreviewPage.tsx": {
+      "blob": "1bc3f543c1c4197737a58a372ae3a9da86ab12c5",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/ShukuIntroPages.css": {
@@ -8205,7 +8793,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/SkillConstraintsPage.tsx": {
-      "blob": "af88dabf2cf026fb67d30bf1b960feef6849401d",
+      "blob": "662d81f426313d68fbf4d5ab4bd2be8808a0a3e3",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/SkillOverviewPage.css": {
@@ -8216,8 +8804,24 @@
       "blob": "52f229663599e05922593d4ecee83310d2459ce5",
       "mode": "100644"
     },
+    "modules/AI-Practice-Education/pages/StudentCapabilitiesPage/StudentCapabilitiesPage.css": {
+      "blob": "49130eea981617fecfb86867e802c9becea87c38",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/StudentCapabilitiesPage/StudentCapabilitiesPage.tsx": {
+      "blob": "339fa082c5db91bba6ca2ff30c79c486dee5998e",
+      "mode": "100644"
+    },
     "modules/AI-Practice-Education/pages/StudentOutcomesPage/StudentOutcomesPage.tsx": {
-      "blob": "b049c017f4d821e2b8bb61cca68d643c611fabd4",
+      "blob": "754299979d11a775b60285c33d28d51175070a72",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/TeachingTalentDiscoveryPage/TeachingTalentDiscoveryPage.css": {
+      "blob": "b0dfe51b51ddb1361ed64e65add7c46e762b93b4",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/pages/TeachingTalentDiscoveryPage/TeachingTalentDiscoveryPage.tsx": {
+      "blob": "e667ed4f43f07b2b386ea59648d1f266dae50f4d",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/TitlePage.css": {
@@ -8225,7 +8829,7 @@
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/TitlePage.tsx": {
-      "blob": "df13ed0c4f144fa740898cc9396cbe9ceed9b77a",
+      "blob": "b68a7fc3c6905dc61fbc0198ec983151d2e3a382",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/pages/UIKitPage.css": {
@@ -8250,6 +8854,10 @@
     },
     "modules/AI-Practice-Education/pages/knowledgeGrowthModel.ts": {
       "blob": "2a118d94422f3e72f418949ef78c77d1dfd4e0e7",
+      "mode": "100644"
+    },
+    "modules/AI-Practice-Education/runtime/pyodide/numpy-2.4.6-cp314-cp314-pyemscripten_2026_0_wasm32.whl": {
+      "blob": "c5fefd310b7868ac5ceda97e7f11875fbd153ddc",
       "mode": "100644"
     },
     "modules/AI-Practice-Education/showcaseGomokuEngine.ts": {
@@ -13373,7 +13981,7 @@
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/ResearchIntelligenceEraPpt.tsx": {
-      "blob": "6ccd10159eb2a6c117312c7bc0b134e2d4d6a73d",
+      "blob": "3f584d34ca0331c4fd9071a68ba991c36d2db623",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/assets/background-1.jpg": {
@@ -13390,6 +13998,46 @@
     },
     "modules/Research-Intelligence-Era/assets/images/idea-bridge-islands-v1.jpg": {
       "blob": "c006113200dcba4a4fbeddc45eb49e1a9c91a40a",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/calendar-stand.png": {
+      "blob": "6677d186501940a16647883a5694dc3c2e88f3a4",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/desk.png": {
+      "blob": "ccd5f3c09bb307fd8196e702efc681664a8cca15",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/paper-top-double-a.png": {
+      "blob": "9ba7d40f78e205eb3b87015e2ef4f6c007f66420",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/paper-top-double-table.png": {
+      "blob": "544bb3f803efeadaf0acea65c70eb36ab58e3893",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/paper-top-single-a.png": {
+      "blob": "723b62c9dad3566cdf345dacba8a7315fea1e5f1",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/paper-top-single-figure.png": {
+      "blob": "aacce999795e4e1728d69e00c5d5630c4db71f59",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/reader-defeated.png": {
+      "blob": "15248f81b93c5fe442d34908012b748f84915ef8",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/reader-focused.png": {
+      "blob": "0167262a4aadadf9f847d13502838761da71206b",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/reader-relaxed.png": {
+      "blob": "17e1d4eb749076a587c4e14d0eefa3ab5b298f9c",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/assets/images/paper-relief/room-calm.png": {
+      "blob": "251d1519a970a1c4d21bdecdd7cdab124654748d",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/assets/images/research-cover-art-v1.jpg": {
@@ -13528,6 +14176,10 @@
       "blob": "ebba546267501035b4f82eb323ae20da53baa19a",
       "mode": "100644"
     },
+    "modules/Research-Intelligence-Era/assets/scenedeck-thumbnails/publication-growth.png": {
+      "blob": "b89ff83d01390c87293075a4deea623bfedcc4c1",
+      "mode": "100644"
+    },
     "modules/Research-Intelligence-Era/assets/scenedeck-thumbnails/wishful-benefits.png": {
       "blob": "e74f03dcd5dddfe593aeb73e6969ff8a5334eaa7",
       "mode": "100644"
@@ -13537,7 +14189,7 @@
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/outlines.json": {
-      "blob": "2dc5c104644d3b117bf60beb749ee74540d1a00b",
+      "blob": "94a71ed90447e311e9e42427760fe485a5d1d980",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/pages/ConventionalResearchPage/ConventionalResearchPage.css": {
@@ -13562,6 +14214,30 @@
     },
     "modules/Research-Intelligence-Era/pages/ImplementationBarrierPage/ImplementationBarrierPage.tsx": {
       "blob": "6363e7e6af4eb8d36c489ef0c63b4a46e57fa482",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/PublicationGrowthPage/PaperReliefScene.tsx": {
+      "blob": "3b6d8a80ddb98f2ac5fbf69e4b60596cefc85d16",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/PublicationGrowthPage/PublicationGrowthPage.css": {
+      "blob": "f3d03d8e3b3c3d1e05a87dd67a2bb6e59476e4fd",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/PublicationGrowthPage/PublicationGrowthPage.tsx": {
+      "blob": "b8aa2c687620a0a1e172e2ef3a12963aea797715",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/PublicationGrowthPage/iclrSubmissions.ts": {
+      "blob": "ea490e5af031270727cb09dd9e564c72a3714342",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/PublicationGrowthPage/paperPerspective.ts": {
+      "blob": "d216746dcc37773ad3f171ebd20b8579d6baeef6",
+      "mode": "100644"
+    },
+    "modules/Research-Intelligence-Era/pages/PublicationGrowthPage/paperStacks.ts": {
+      "blob": "940cb00c6577109a7df47e208f7ac03bdaf5a68d",
       "mode": "100644"
     },
     "modules/Research-Intelligence-Era/pages/WishfulBenefitsPage/WishfulBenefitsPage.css": {
@@ -16925,7 +17601,7 @@
       "mode": "100644"
     },
     "package.json": {
-      "blob": "83976844afca1835a74fec4c534900ae0ca3bd8a",
+      "blob": "91a5720f7a588aa7e40bcf47700234784af3fff2",
       "mode": "100644"
     },
     "scripts/course-library-export.py": {
@@ -16933,7 +17609,7 @@
       "mode": "100644"
     },
     "source-lock.json": {
-      "blob": "cc03a5bb41a4265c3b16a3d0b64b294f7b8e1f42",
+      "blob": "3824b43049f11d5a40ad2badf23149e04ee2b4a8",
       "mode": "100644"
     }
   },
