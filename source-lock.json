@@ -8,6 +8,14 @@
     "package.json": "dea9979b2dae414ad34a6419387bee6c56f18b1a",
     "scripts": "c8cb0bd986872db648adea6e0ffcf0b3e54eeacf"
   },
+  "overrides": {
+    "modules/Creator-Guide": {
+      "commit": "8ffab9ab9ecd6082f5d262357f55e906bc3e3d02",
+      "reason": "Publish the approved 22-page Creator Guide with selectable text",
+      "repository": "ReductTech/intuitive-deep-learning",
+      "tree": "f59b02e964fdbc8732b4ba762dcf8c6ca420e4b7"
+    }
+  },
   "policy": "add-update-only",
   "repository": "ReductTech/intuitive-deep-learning",
   "schema": 1

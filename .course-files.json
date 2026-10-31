@@ -9321,11 +9321,11 @@
       "mode": "100644"
     },
     "modules/Creator-Guide/CreatorGuide.tsx": {
-      "blob": "dc15561d6ee8223e7f838846841ed4972f9ee53e",
+      "blob": "e3bdf876a22896b33b92f0620fd6abee56d11be7",
       "mode": "100644"
     },
     "modules/Creator-Guide/CreatorPpt.tsx": {
-      "blob": "27a18507953216ba738886c171f558fa74029476",
+      "blob": "54bad0d23bbf3ff3363b1fb446758643937a1157",
       "mode": "100644"
     },
     "modules/Creator-Guide/CreatorTypography.css": {
@@ -9678,6 +9678,10 @@
     },
     "modules/Creator-Guide/assets/scenedeck-thumbnails/progressive-disclosure.png": {
       "blob": "8b5bf473d96253528c068f1909b79031baa602e6",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/assets/scenedeck-thumbnails/shuku-cocreation-loop.png": {
+      "blob": "d5e3576f9292cabf086c272b01eb744bccf849e8",
       "mode": "100644"
     },
     "modules/Creator-Guide/assets/scenedeck-thumbnails/shuku-growth.jpg": {
@@ -10397,7 +10401,7 @@
       "mode": "100644"
     },
     "modules/Creator-Guide/outlines.json": {
-      "blob": "3972ba2725fa917e52db1fd43e01be3f478e414d",
+      "blob": "f1b65db7e23c7901e82befe839c7fbd1397272f3",
       "mode": "100644"
     },
     "modules/Creator-Guide/pages/CreationWorkflowPage.css": {
@@ -10506,6 +10510,54 @@
     },
     "modules/Creator-Guide/pages/ProgressiveDisclosurePage.tsx": {
       "blob": "14b78fb6e0e0abc44ebc6decc7db05945567e221",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/LoopArtwork.css": {
+      "blob": "41b8ecce0dd21012a902462138a92372ccfcf5ad",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/LoopArtwork.tsx": {
+      "blob": "92d9b9eaed53a0a4360ebe2b483884870c68c1ae",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/README.md": {
+      "blob": "34950212d5b16962a9b10b97762c207f8ebeade9",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/ShukuCoCreationLoop.css": {
+      "blob": "95d691c919980f445aa217bfc7cb40604be63ad9",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/ShukuCoCreationLoop.tsx": {
+      "blob": "caaaed267e4b3639af2385a93620c85a31e102f5",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/assets/cat.png": {
+      "blob": "2f27fd8bb09eb0556d173353c40f40cc4867fe4b",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/assets/gradient-surface.png": {
+      "blob": "9a1feacf1324294f0c6ce721daf5d95e7bfd2536",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/assets/noise.png": {
+      "blob": "9782bb66aeca48ce669e2cfdcf2efb8b26d72b3d",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/index.ts": {
+      "blob": "545f908cf27cece3d45ebea038f9a8dce7492e55",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/model.test.mjs": {
+      "blob": "10a09c7aa14d7c508348ed86d9f26ef32126bbd2",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/model.ts": {
+      "blob": "22a1d08112e0a8fece1d79fbd7b8fe27a35fce14",
+      "mode": "100644"
+    },
+    "modules/Creator-Guide/pages/ShukuCoCreationLoop/verify_browser.py": {
+      "blob": "1f7a589af5f5d02279e944a5f9bd5b440c2b00b5",
       "mode": "100644"
     },
     "modules/Creator-Guide/pages/ShukuIntroPages.css": {
@@ -17609,7 +17661,7 @@
       "mode": "100644"
     },
     "source-lock.json": {
-      "blob": "3824b43049f11d5a40ad2badf23149e04ee2b4a8",
+      "blob": "6a76009cc753f5489f0e6cbc733642d5c625ecea",
       "mode": "100644"
     }
   },
